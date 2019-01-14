@@ -16,3 +16,7 @@ Candidate genes are recovered by bedtools v2.27.1, spack module bedtools2/2.27.1
 ```
 cat QTL.bed | while read line; do echo $line | tr ' ' '\t' | bedtools intersect -a stdin -b Tx-JGI_G.hirsutum_v1.1.geneONLY.gff3 >> QTL.candidateGenes.recov red
 ```
+Numbers of Candidate loci recovered per QTL is given by
+```
+cut -f 4 QTL.candidateGenes.recovered | sort | uniq | while read line; do echo $line `grep -c $line QTL.candidateGenes.recovered` >> QTL.candidateGenes.recovered.number; done
+```
