@@ -3,8 +3,6 @@
 # targets: QTLtargetseqsUpdated.fasta
 
 module load gmap-gsnap/2018-07-04-gtu46xu
-module load (bedops)
-module load (bedtools)
 
 ### 0. fix stupid QTL file
 sed 's/\[A\/T\]/W/g' QTLtargetseqsUpdated.fasta | sed 's/\[A\/C\]/M/g' | sed 's/\[A\/G\]/R/g' | sed 's/\[C\/G\]/S/g' | sed 's/\[C\/T\]/Y/g' | sed 's/\[G\/T\]/K/g' | sed 's/\[A/M/g' | sed 's/\/C\]//g' > QTLtargetseqsFixed.fasta # this file is renamed simply QTLtargetseqs.fasta, for simplicity
@@ -49,31 +47,4 @@ then
 	sed -i "/$line/d" QTLtargetseqsUpdated.blastn.multiple.out
 fi
 done
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 2a. convert mapped sam file to bed file
-
-sam2bed < foo.sam2bed > foo.bed
-
-#### 3. extract marker intervals from table 2
-grep "first" or "last" from foo.bed
-bedtools intersect to figure out what is between them 
-
-
 
