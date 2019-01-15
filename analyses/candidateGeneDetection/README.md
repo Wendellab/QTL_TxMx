@@ -14,9 +14,20 @@ A preliminary sorted table is found in QTLcandidateGenes.xlsx, which was inspect
 
 Candidate genes are recovered by bedtools v2.27.1, spack module bedtools2/2.27.1-s2mtpsu
 ```
-cat QTL.bed | while read line; do echo $line | tr ' ' '\t' | bedtools intersect -a stdin -b Tx-JGI_G.hirsutum_v1.1.geneONLY.gff3 >> QTL.candidateGenes.recov red
+cat QTL.bed | while read line; do echo $line | tr ' ' '\t' | bedtools intersect -a stdin -b Tx-JGI_G.hirsutum_v1.1.geneONLY.gff3 >> QTL.candidateGenes.recovered
+
+cat QTL.bed | while read line; do echo $line | tr ' ' '\t' | bedtools intersect -a stdin -b Tx-JGI_G.hirsutum_v1.1.geneONLY.gff3 >> QTL.candidateGenes.recovered.named
 ```
 Numbers of Candidate loci recovered per QTL is given by
 ```
 cut -f 4 QTL.candidateGenes.recovered | sort | uniq | while read line; do echo $line `grep -c $line QTL.candidateGenes.recovered` >> QTL.candidateGenes.recovered.number; done
+```
+
+Expression information is from Jing's ongoing cis-trans work. Only Tx2094 v Maxxa comparisons are used (@ 10 and 20 dpa)
+```
+for a in *.txt; do awk '{print FILENAME (NF?"\t":"") $0}' $a | sed 's/"//g' | sed '/NA/d' | sed 's/[.]txt//g' | sed 's/vs/_/g' | sed '/mt_/d' | sed '/Z/d'>> all.expression; done
+
+awk ' { if ( $8 <= 0.005 ) print $0 } ' all.expression > all.expression.padj0.005
+cut -f3 -d '=' QTL.candidateGenes.recovered.named | sort | uniq | while read line; do grep $line all.expression.padj0.005 >> candidateGene.expression; done
+# of the 13,274 genes under a QTL, 1063 have expression differences between TX2094 and Maxxa
 ```
