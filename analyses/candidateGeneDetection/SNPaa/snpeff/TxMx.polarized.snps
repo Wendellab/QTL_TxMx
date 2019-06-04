@@ -1,0 +1,25 @@
+subset number
+snps
+all_snps 3598770
+synonymous 20645
+missense 35108
+5_UTR 9656
+3_UTR 17934
+start 357
+stop 617
+
+genes
+genes 34870
+genes_syn 13579
+genes_aa 19195
+genes_5UTR 7461
+genes_3UTR 12368
+genes_start 366
+genes_stop 572
+genes_aff 30360
+QTL_genes_eff 6134
+QTL_genes_aa 3807
+
+compared2expression
+expSNP_genes_eff 553
+expSNP_genes_aa 350

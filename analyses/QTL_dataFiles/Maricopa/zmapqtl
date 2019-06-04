@@ -1,0 +1,1 @@
+Zmapqtl -i maricopa.cro -o maricopa_trait55.z -e maricopa_trait55.log -m maricopa_map.map -l maricopa_trait55.lr -M 4 -t 55 -r 1000

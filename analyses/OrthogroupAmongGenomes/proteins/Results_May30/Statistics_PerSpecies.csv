@@ -1,0 +1,100 @@
+	HAU.prot	JGIv1.prot	JGIv2.prot
+Number of genes	115835	87800	72761
+Number of genes in orthogroups	75853	77406	63984
+Number of unassigned genes	39982	10394	8777
+Percentage of genes in orthogroups	65.5	88.2	87.9
+Percentage of unassigned genes	34.5	11.8	12.1
+Number of orthogroups containing species	35240	33259	33592
+Percentage of orthogroups containing species	95.3	89.9	90.8
+Number of species-specific orthogroups	9	4	4
+Number of genes in species-specific orthogroups	65	18	33
+Percentage of genes in species-specific orthogroups	0.1	0.0	0.0
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	1746	3727	3394
+'1	15544	10673	11741
+'2	12137	14100	19115
+'3	3072	3715	671
+'4	1823	2060	1260
+'5	929	978	158
+'6	616	614	296
+'7	353	336	84
+'8	231	249	95
+'9	138	175	28
+'10	103	113	31
+11-15	212	194	67
+16-20	59	31	9
+21-50	18	20	29
+51-100	3	1	6
+101-150	1	0	2
+151-200	0	0	0
+201-500	1	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	4.7	10.1	9.2
+'1	42.0	28.9	31.7
+'2	32.8	38.1	51.7
+'3	8.3	10.0	1.8
+'4	4.9	5.6	3.4
+'5	2.5	2.6	0.4
+'6	1.7	1.7	0.8
+'7	1.0	0.9	0.2
+'8	0.6	0.7	0.3
+'9	0.4	0.5	0.1
+'10	0.3	0.3	0.1
+11-15	0.6	0.5	0.2
+16-20	0.2	0.1	0.0
+21-50	0.0	0.1	0.1
+51-100	0.0	0.0	0.0
+101-150	0.0	0.0	0.0
+151-200	0.0	0.0	0.0
+201-500	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes
+'0	0	0	0
+'1	15544	10673	11741
+'2	24274	28200	38230
+'3	9216	11145	2013
+'4	7292	8240	5040
+'5	4645	4890	790
+'6	3696	3684	1776
+'7	2471	2352	588
+'8	1848	1992	760
+'9	1242	1575	252
+'10	1030	1130	310
+11-15	2585	2357	824
+16-20	1026	532	156
+21-50	467	576	830
+51-100	184	60	446
+101-150	113	0	228
+151-200	0	0	0
+201-500	220	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0
+'1	13.4	12.2	16.1
+'2	21.0	32.1	52.5
+'3	8.0	12.7	2.8
+'4	6.3	9.4	6.9
+'5	4.0	5.6	1.1
+'6	3.2	4.2	2.4
+'7	2.1	2.7	0.8
+'8	1.6	2.3	1.0
+'9	1.1	1.8	0.3
+'10	0.9	1.3	0.4
+11-15	2.2	2.7	1.1
+16-20	0.9	0.6	0.2
+21-50	0.4	0.7	1.1
+51-100	0.2	0.1	0.6
+101-150	0.1	0.0	0.3
+151-200	0.0	0.0	0.0
+201-500	0.2	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0

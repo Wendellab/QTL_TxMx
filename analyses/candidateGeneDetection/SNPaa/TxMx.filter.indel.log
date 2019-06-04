@@ -1,0 +1,21 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf maxxa_tx2094_AD4.vcf
+	--max-alleles 2
+	--min-alleles 2
+	--max-missing 1
+	--out TxMx.filter.indel
+	--recode
+	--remove-indels
+	--remove-indv AD4
+	--remove-indv AD4-16
+	--remove-indv AD4-W400
+
+Excluding individuals in 'exclude' list
+After filtering, kept 3 out of 6 Individuals
+Outputting VCF file...
+After filtering, kept 24929412 out of a possible 30852437 Sites
+Run Time = 770.00 seconds

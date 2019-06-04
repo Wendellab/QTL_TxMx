@@ -1,0 +1,96 @@
+
+OrthoFinder version 2.2.0 Copyright (C) 2014 David Emms
+
+100 thread(s) for highly parallel tasks (BLAST searches etc.)
+1 thread(s) for OrthoFinder algorithm
+
+Checking required programs are installed
+----------------------------------------
+Test can run "makeblastdb -help" - ok
+Test can run "blastp -help" - ok
+Test can run "mcl -h" - ok
+Test can run "fastme -i /work/LAS/jfw-lab/corrinne/QTLpaper/OF/proteins/SimpleTest.phy -o /work/LAS/jfw-lab/corrinne/QTLpaper/OF/proteins/SimpleTest.tre" - ok
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+2019-05-30 15:00:14 : Creating Blast database 1 of 3
+2019-05-30 15:00:21 : Creating Blast database 2 of 3
+2019-05-30 15:00:26 : Creating Blast database 3 of 3
+
+Running BLAST all-versus-all
+----------------------------
+Using 100 thread(s)
+2019-05-30 15:00:29 : This may take some time....
+
+Running OrthoFinder algorithm
+-----------------------------
+2019-05-31 19:11:31 : Initial processing of each species
+2019-05-31 19:20:37 : Initial processing of species 0 complete
+2019-05-31 19:27:38 : Initial processing of species 1 complete
+2019-05-31 19:33:59 : Initial processing of species 2 complete
+2019-05-31 19:35:49 : Connected putatitive homologs
+[mcl] cut <3> instances of overlap
+2019-05-31 19:38:05 : Ran MCL
+
+Writing orthogroups to file
+---------------------------
+Orthogroups have been written to tab-delimited files:
+   /work/LAS/jfw-lab/corrinne/QTLpaper/OF/proteins/Results_May30/Orthogroups.csv
+   /work/LAS/jfw-lab/corrinne/QTLpaper/OF/proteins/Results_May30/Orthogroups.txt (OrthoMCL format)
+   /work/LAS/jfw-lab/corrinne/QTLpaper/OF/proteins/Results_May30/Orthogroups_UnassignedGenes.csv
+2019-05-31 19:38:10 : Done orthogroups
+
+Analysing Orthogroups
+=====================
+
+Calculating gene distances
+--------------------------
+2019-05-31 19:54:56 : Done 0 of 25177
+2019-05-31 19:55:19 : Done 1000 of 25177
+2019-05-31 19:55:40 : Done 2000 of 25177
+2019-05-31 19:56:02 : Done 3000 of 25177
+2019-05-31 19:56:24 : Done 4000 of 25177
+2019-05-31 19:56:47 : Done 5000 of 25177
+2019-05-31 19:57:11 : Done 6000 of 25177
+2019-05-31 19:57:33 : Done 7000 of 25177
+2019-05-31 19:57:55 : Done 8000 of 25177
+2019-05-31 19:58:18 : Done 9000 of 25177
+2019-05-31 19:58:40 : Done 10000 of 25177
+2019-05-31 19:59:01 : Done 11000 of 25177
+2019-05-31 19:59:23 : Done 12000 of 25177
+2019-05-31 19:59:45 : Done 13000 of 25177
+2019-05-31 20:00:07 : Done 14000 of 25177
+2019-05-31 20:00:28 : Done 15000 of 25177
+2019-05-31 20:00:50 : Done 16000 of 25177
+2019-05-31 20:01:12 : Done 17000 of 25177
+2019-05-31 20:01:33 : Done 18000 of 25177
+2019-05-31 20:01:56 : Done 19000 of 25177
+2019-05-31 20:02:18 : Done 20000 of 25177
+2019-05-31 20:02:40 : Done 21000 of 25177
+2019-05-31 20:03:02 : Done 22000 of 25177
+2019-05-31 20:03:24 : Done 23000 of 25177
+2019-05-31 20:03:46 : Done 24000 of 25177
+2019-05-31 20:04:09 : Done 25000 of 25177
+2019-05-31 19:54:52 : Done
+
+Inferring gene and species trees
+--------------------------------
+
+23597 trees had all species present and will be used by STAG to infer the species tree
+
+Traceback (most recent call last):
+  File "orthofinder/orthofinder.py", line 1549, in <module>
+  File "orthofinder/orthofinder.py", line 1398, in GetOrthologues
+  File "orthofinder/scripts/orthologues.py", line 948, in OrthologuesWorkflow
+  File "orthofinder/scripts/orthologues.py", line 408, in RunAnalysis
+  File "orthofinder/scripts/stag.py", line 252, in Run_ForOrthoFinder
+  File "orthofinder/scripts/stag.py", line 237, in InferSpeciesTree
+  File "orthofinder/scripts/consensus_tree.py", line 249, in ConsensusTree
+  File "orthofinder/scripts/consensus_tree.py", line 153, in GetAllSplits
+  File "orthofinder/scripts/tree.py", line 180, in __init__
+  File "orthofinder/scripts/newick.py", line 231, in read_newick
+scripts.newick.NewickError: Unexisting tree file or Malformed newick tree structure.
+Failed to execute script orthofinder
+2019-05-31 19:36:20 : Written final scores for species 0 to graph file
+2019-05-31 19:36:45 : Written final scores for species 1 to graph file
+2019-05-31 19:37:06 : Written final scores for species 2 to graph file

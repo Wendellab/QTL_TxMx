@@ -1,0 +1,2 @@
+Zmapqtl -i ames.cro -o ames_trait50.z -e ames_trait50.log -m ames_map.map -l ames_trait50.lr -M 4 -t 50 -r 1000
+

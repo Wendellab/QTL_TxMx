@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf maxxa_tx2094_AD4.vcf
+	--out oneAD4
+	--remove-indv AD4
+	--remove-indv AD4-16
+	--remove-indv AD4-W400
+
+Excluding individuals in 'exclude' list
+After filtering, kept 3 out of 6 Individuals
+After filtering, kept 30852437 out of a possible 30852437 Sites
+Run Time = 79.00 seconds

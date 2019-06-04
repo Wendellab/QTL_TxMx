@@ -1,0 +1,69 @@
+#
+#  This is the parameter file for QTLcartographer.
+#  It was regenerated 05:09:55 on Sunday, 26 February 2012
+#
+#        Some basic parameters
+#
+-chrom              32  # (Number of chromosomes: Rmap)
+-mark               11  # (Average number of markers per chromosome: Rmap)
+-vmark          5.3112  # (Standard Deviation in the number of markers/chromosome: Rmap)
+-dist           5.9822  # (Average intermarker distance, in cM: Rmap)
+-vdist          6.7598  # (Standard Deviation of intermarker distance: Rmap)
+-qnum                9  # (Average number of QTLs per trait: Rqtl)
+-dom                 1  # (type of dominance: Rqtl)
+-beta           2.0000  # (Value of additive beta: Rqtl)
+-beta1          2.0000  # (Value of dominance beta1: Rqtl)
+-beta2          2.0000  # (Value of dominance beta2: Rqtl)
+-traits            116  # (Number of quantitative traits: Rqtl)
+-whichtrait        107  # (The trait to be analyzed: Zmapqtl)
+-Herit          0.5000  # (Heritability: Rcross)
+-cross               4  # (Type of cross: Rcross)
+-nn                466  # (Sample size: Rcross)
+-Model               4  # (Model for analysis: Zmapqtl)
+-walk           2.0000  # (Walking speed along chromosomes, in cM: Zmapqtl)
+-window        10.0000  # (Window width, in cM: Zmapqtl)
+-nbp                5  # (Number of background parameters: Zmapqtl)
+-mapfunc             1  # (Map Function)
+-gout                1  # (Output flag: Rmap)
+-Rmode               0  # (Simulation Mode: Rmap)
+-emaplink       0.2500  # (Size of test for linkage: Emap)
+-emapseg        0.0100  # (Size of test for segregation: Emap)
+-emapmeth           10  #  (Emap method flag)
+-emapobj             0  #  (Emap objective function, )
+-lodflag             0  # (1 => LOD scores in Preplot, Eqtl)
+-srF            0.0500  # (p(Fin): SRmapqtl)
+-srB            0.0500  # (p(Fout): SRmapqtl)
+-srM                 2  # (Regression type: SRmapqtl)
+-srupper           100  # (Maximun number of steps in stepwise regression: SRmapqtl)
+-size           0.0500  # (Size, or alpha)
+-siglevel       3.8400  # (Size, or alpha)
+-LRmax          0.0000  # Maximum LR or LOD score
+-Effectmax        0.000000  # Maximum additive effect 
+-maxqtl             19  # (Maximum QTL to fit in MImapqtl)
+-maxepis            19  # (Maximum Epistatic effect to fit in MImapqtl)
+-lodmim         0.0000  # (LOD for adding/dropping parameters in MImapqtl)
+-ic                  1  # (Code for IC criterion in MImapqtl)
+-phasemim            0  # (Phase of analysis MImapqtl)
+-Hypothesis         10  # (Hypothesis test to do/process)
+#
+# These are the default filenames...
+#
+-stem              combined_trait107  # (Stem for filenames)
+-Thecross                        RF2  # (Type of cross)
+-error         combined_trait107.log  # (Log and error file: All)
+-map                    combined.map  # (Rmap ouput file, linkage map)
+-qtl           combined_trait107.qtl  # (Rqtl output file)
+-ifile                  combined.cro  # (Rcross output file, individual data file)
+-lrfile         combined_trait107.lr  # (Results of Linear Regression analysis)
+-srfile         combined_trait107.sr  # (Results of Stepwise Regression analysis)
+-qstat         combined_trait107.qst  # (Results of Qstats)
+-zfile           combined_trait107.z  # (Results of (Composite) Interval Mapping Analysis)
+-eqtlfile         combined_trait107.eqt  # (Eqtl output file)
+-mimfile       combined_trait107.mim  # (Results of Multiple Interval Mapping Analysis)
+-mqtfile      combined_trait107i.mqt  # (Multiple Interval Mapping Analysis Model)
+-bayesfile     combined_trait107.bys  # (Results of Bayesian Analysis)
+-mrinput      combined_trait107.zr  # (Output of JZmapqtl for input to MultiRegress)
+-mroutput      combined_trait107.mr  # (Results of MultiRegress)
+#
+#  end of file
+#

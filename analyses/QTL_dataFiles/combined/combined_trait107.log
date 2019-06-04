@@ -1,0 +1,120 @@
+#     1330225115   -filetype QTLcart.log 
+#
+#	QTL Cartographer v. 1.17j, 28 January 2005
+#	This output file (combined_trait107.log) was created by LRmapqtl...
+#
+#	It is 20:58:35 on Saturday, 25 February 2012
+#
+#
+
+======================================================================
+	QTL Cartographer v. 1.17j, 28 January 2005  for Unix
+	Copyright (C) 1996-2001 C. J. Basten, B. S. Weir and Z.-B. Zeng.
+	QTL Cartographer comes with ABSOLUTELY NO WARRANTY.
+	This is free software, and you are welcome to redistribute it
+	under certain conditions. For details see the file COPYING.
+
+======================================================================
+TIME:    20:58:35 on Saturday, 25 February 2012
+PROGRAM: LRmapqtl
+PURPOSE: Map QTL using Simple Linear Regression
+USAGE:   LRmapqtl  [-i  x]  [-o  x]  [-e  x] ...
+DEFAULTS:
+  [ -i     combined.cro ] Data Input File                                   
+  [ -o  combined_trait107.lr ] Output File                                       
+  [ -e  combined_trait107.log ] Error File                                        
+  [ -m     combined.map ] Genetic Linkage Map File                          
+  [ -s       1330225115 ] Random Number Seed                                
+  [ -r                0 ] Number of Permutations                            
+  [ -t              107 ] Trait to Analyze                                  
+
+  Also: [-h] for help, [-A] for automatic,  [-V] for non-Verbose
+  [-W path] for a working directory, [-R file] to specify a resource
+  file and [-X stem] to specify a filename stem.
+
+......................................................................
+
+Program started: 20:58:35 on Saturday, 25 February 2012
+and finished:    20:58:57 on Saturday, 25 February 2012
+
+######################################################################
+
+======================================================================
+	QTL Cartographer v. 1.17j, 28 January 2005  for Unix
+	Copyright (C) 1996-2001 C. J. Basten, B. S. Weir and Z.-B. Zeng.
+	QTL Cartographer comes with ABSOLUTELY NO WARRANTY.
+	This is free software, and you are welcome to redistribute it
+	under certain conditions. For details see the file COPYING.
+
+======================================================================
+TIME:    20:59:11 on Saturday, 25 February 2012
+PROGRAM: Zmapqtl
+PURPOSE: Do (Composite) Interval Mapping
+USAGE:   Zmapqtl  [-i  x]  [-o  x]  [-e  x] ...
+DEFAULTS:
+  [ -i     combined.cro ] Input File                                        
+  [ -o  combined_trait107.z ] Output File                                       
+  [ -e  combined_trait107.log ] Error File                                        
+  [ -m     combined.map ] Genetic Linkage Map File                          
+  [ -l  combined_trait107.lr ] LRmapqtl Results file (Models 4&5)                
+  [ -S  combined_trait107.sr ] SRmapqtl Results file (Model 6)                   
+  [ -s       1330225151 ] Random Number Seed                                
+  [ -M                4 ] Model [1-6], 3=>IM                                
+  [ -t              107 ] Trait to analyze                                  
+  [ -c                0 ] Chromosome to analyze (0=>all)                    
+  [ -d         2.000000 ] Walking speed in cM                               
+  [ -n                5 ] Number of Background Parameters (Model 6)         
+  [ -w        10.000000 ] Window Size in cM (Models 5&6)                    
+  [ -r                0 ] Number of Permutations                            
+  [ -b                0 ] Number of Bootstraps                              
+
+  Also: [-h] for help, [-A] for automatic,  [-V] for non-Verbose
+  [-W path] for a working directory, [-R file] to specify a resource
+  file and [-X stem] to specify a filename stem.
+
+......................................................................
+
+Program started: 20:59:11 on Saturday, 25 February 2012
+and finished:    20:59:50 on Saturday, 25 February 2012
+
+######################################################################
+
+======================================================================
+	QTL Cartographer v. 1.17j, 28 January 2005  for Unix
+	Copyright (C) 1996-2001 C. J. Basten, B. S. Weir and Z.-B. Zeng.
+	QTL Cartographer comes with ABSOLUTELY NO WARRANTY.
+	This is free software, and you are welcome to redistribute it
+	under certain conditions. For details see the file COPYING.
+
+======================================================================
+TIME:    21:00:27 on Saturday, 25 February 2012
+PROGRAM: Zmapqtl
+PURPOSE: Do (Composite) Interval Mapping
+USAGE:   Zmapqtl  [-i  x]  [-o  x]  [-e  x] ...
+DEFAULTS:
+  [ -i     combined.cro ] Input File                                        
+  [ -o  combined_trait107.z ] Output File                                       
+  [ -e  combined_trait107.log ] Error File                                        
+  [ -m     combined.map ] Genetic Linkage Map File                          
+  [ -l  combined_trait107.lr ] LRmapqtl Results file (Models 4&5)                
+  [ -S  combined_trait107.sr ] SRmapqtl Results file (Model 6)                   
+  [ -s       1330225227 ] Random Number Seed                                
+  [ -M                4 ] Model [1-6], 3=>IM                                
+  [ -t              107 ] Trait to analyze                                  
+  [ -c                0 ] Chromosome to analyze (0=>all)                    
+  [ -d         2.000000 ] Walking speed in cM                               
+  [ -n                5 ] Number of Background Parameters (Model 6)         
+  [ -w        10.000000 ] Window Size in cM (Models 5&6)                    
+  [ -r             1000 ] Number of Permutations                            
+  [ -b                0 ] Number of Bootstraps                              
+
+  Also: [-h] for help, [-A] for automatic,  [-V] for non-Verbose
+  [-W path] for a working directory, [-R file] to specify a resource
+  file and [-X stem] to specify a filename stem.
+
+......................................................................
+
+Program started: 21:00:27 on Saturday, 25 February 2012
+and finished:    05:09:55 on Sunday, 26 February 2012
+
+######################################################################
