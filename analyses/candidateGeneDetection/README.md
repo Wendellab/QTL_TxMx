@@ -6,7 +6,7 @@ https://www.cottongen.org/species/Gossypium_raimondii/jgi_genome_221
 Accessed 01/10/2019
 
 The arboreum genome is from https://www.nature.com/articles/s41588-018-0116-x
-We acquired our copy directly from the authors. We have also asked CottonGen to host it.
+We acquired our copy directly from the authors. CottonGen now hosts the genome (https://www.cottongen.org/species/Gossypium_arboreum/CRI-A2_genome_v1.0).
 
 QTLcandidateGenes.bash is used to run gmap and find marker locations. The download link for the genome is listed within this file. The marker sequences are found in QTLtargetseqs.fasta. gmap results are in QTLtargetseqs.gmap.* 
 
