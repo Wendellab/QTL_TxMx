@@ -1,0 +1,1783 @@
+Row.names	AA	eff	DGE	TF	other	relevance	total	Best.hit.arabi.name	arabi.symbol	arabi.defline	description
+Gohir.A07G190200	TRUE	TRUE	TRUE	FALSE	FALSE	1	4	AT2G04850	none	Auxin-responsive family protein	plant growth; already in MS
+Gohir.A08G192800	TRUE	TRUE	TRUE	FALSE	FALSE	1	4	AT2G20190	ATCLASPCLASP	CLIP-associated protein	Encodes a microtubule-associated protein that is involved in both cell division and cell expansion. It likely promotes microtubule stability.
+Gohir.A06G070100	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G51760	IAR3JR3	peptidase M20/M25/M40 family protein	.
+Gohir.A06G071000	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT4G29490	none	Metallopeptidase M24 family protein	.
+Gohir.A07G178100	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G02360	none	6-phosphogluconate dehydrogenase family protein	.
+Gohir.A07G182200	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G51550	FER	Malectin/receptor-like protein kinase family protein	.
+Gohir.A07G194900	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT5G39740	OLI7RPL5B	ribosomal protein L5 B	Encodes a ribosomal protein RPL5B that is involved in ribosome biogenesis and plays a role in organ size control by promoting cell proliferation and preventing compensation in normal leaf development.
+Gohir.A07G196000	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT4G12850	none	Far-red impaired responsive (FAR1) family protein	plant growth; already in MS
+Gohir.A08G189000	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G58160	ATMYOS3ATXIJMYA3XI-16XIJ	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.A08G189600	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT5G63450	CYP94B1	cytochrome P450 family 94 subfamily B polypeptide 1	.
+Gohir.A08G196000	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G09640	APX1BAPX2	ascorbate peroxidase 2	.
+Gohir.A08G196300	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT2G27100	SE	C2H2 zinc-finger protein SERRATE (SE)	Further analysis of the single loss of function allele indicated pleiotropic effects extending to many aspects of shoot development such as taller meristems alterations in phase transition phyllotaxy and branching
+Gohir.A08G196500	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G27090	none	Protein of unknown function (DUF630 and DUF632)	.
+Gohir.D12G158000	TRUE	TRUE	FALSE	TRUE	FALSE	0	3	AT1G67970	AT-HSFA8HSFA8	heat shock transcription factor  A8	.
+Gohir.D12G159500	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT1G05230	HDG2	homeodomain GLABROUS 2	Encodes a homeobox-leucine zipper family protein belonging to the HD-ZIP IV family. Mutants have trichomes that appear glass-like under a dissecting microscope as compared to the wild-type trichomes. The mutations do not affect trichome growth or branch number.
+Gohir.D12G160100	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT3G21700	ATSGP2SGP2	Ras-related small GTP-binding family protein	Expressed in root epidermal cells that are destined to become atrichoblasts. Also expressed during pollen development and in the pollen tube tip.
+Gohir.A06G063500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G10950	none	Zinc-binding ribosomal protein family protein	.
+Gohir.A06G063800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G13240	ATROPGEF9ROPGEF9	RHO guanyl-nucleotide exchange factor 9	.
+Gohir.A06G063900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G11520	ASP3YLS4	aspartate aminotransferase 3	.
+Gohir.A06G064200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29000	none	Tesmin/TSO1-like CXC domain-containing protein	.
+Gohir.A06G065300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G67280	none	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily protein	.
+Gohir.A06G065400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G20050	none	protein serine/threonine phosphatases;protein kinases;catalytics;cAMP-dependent protein kinase regulators;ATP binding;protein serine/threonine phosphatases	.
+Gohir.A06G065500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28890	none	RING/U-box superfamily protein	.
+Gohir.A06G066100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G20010	none	Protein of unknown function (DUF810)	.
+Gohir.A06G066800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G56290	none	CwfJ-like family protein	.
+Gohir.A06G067000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G28345	none	ABC transporter family protein	.
+Gohir.A06G067100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G15450	none	Senescence/dehydration-associated protein-related	.
+Gohir.A06G067700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G19730	none	Pectin lyase-like superfamily protein	.
+Gohir.A06G069800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29180	RHS16	root hair specific 16	.
+Gohir.A06G070500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G56740	HAC07HAC7HAG02HAG2	histone acetyltransferase of the GNAT family 2	.
+Gohir.A06G071100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29510	ATPRMT11ATPRMT1BPRMT11PRMT1B	arginine methyltransferase 11	.
+Gohir.A06G071300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G13690	none	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	.
+Gohir.A06G071400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29540	none	bacterial transferase hexapeptide repeat-containing protein	.
+Gohir.A06G072500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G13750	BGAL1	beta galactosidase 1	.
+Gohir.A06G073000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G56970	ATCKX3CKX3	cytokinin oxidase 3	.
+Gohir.A06G073100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29750	none	CRS1 / YhbY (CRM) domain-containing protein	.
+Gohir.A06G073400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G19480	NAP1;2NFA02NFA2	nucleosome assembly protein 1;2	.
+Gohir.A06G073600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G19430	AtTHO6DWA1THO6	DWD (DDB1-binding WD40 protein) hypersensitive to ABA 1	.
+Gohir.A06G073800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G57035	none	U-box domain-containing protein kinase family protein	.
+Gohir.A06G074100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G37900	none	Protein of unknown function (duplicated DUF1399)	.
+Gohir.A06G074200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G29810	ATMKK2MK1MKK2	MAP kinase kinase 2	.
+Gohir.A07G175900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G47890	AtRLP7RLP7	receptor like protein 7	.
+Gohir.A07G176200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G02450	none	cell division protein ftsH putative	.
+Gohir.A07G176600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G37510	CI76EMB1467	NADH-ubiquinone dehydrogenase mitochondrial putative	.
+Gohir.A07G176800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G37020	ARF8ATARF8	auxin response factor 8	.
+Gohir.A07G177500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G30390	none	Transmembrane amino acid transporter family protein	.
+Gohir.A07G177600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G38940	ATPT2PHT1;4	phosphate transporter 1;4	.
+Gohir.A07G177700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	ATCG00480	none	ATP synthase subunit beta	.
+Gohir.A07G178200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G24762	AtGDU4GDU4	glutamine dumper 4	.
+Gohir.A07G178500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G38840	none	SMAD/FHA domain-containing protein 	.
+Gohir.A07G178700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G02260	ASA1BIGCRM1DOC1LPR1TIR3UMB1	auxin transport protein (BIG)	.
+Gohir.A07G182700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G30880	none	Pleckstrin homology (PH) domain-containing protein	.
+Gohir.A07G183500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G51550	FER	Malectin/receptor-like protein kinase family protein	.
+Gohir.A07G183600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G10530	none	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A07G183700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G14130	none	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	.
+Gohir.A07G183900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G22260	none	Cysteine proteinases superfamily protein	.
+Gohir.A07G184000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G22250	none	UDP-Glycosyltransferase superfamily protein	.
+Gohir.A07G190500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G48160	OBE2	Protein of unknown function (DUF1423)	.
+Gohir.A07G190600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07770	AtHsp90-6AtHsp90.6Hsp89.1	HEAT SHOCK PROTEIN 89.1	.
+Gohir.A07G191000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G05120	none	Nucleoporin Nup133/Nup155-like	.
+Gohir.A07G191200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G48170	SLY2	F-box family protein	.
+Gohir.A07G191400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G35770	SAP	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A07G191800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G05320	none	beta-12-N-acetylglucosaminyltransferase II	.
+Gohir.A07G192400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G25434	ATNUDT10NUDT10	nudix hydrolase homolog 10	.
+Gohir.A07G192700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G05260	CYP79A2	cytochrome p450 79a2	.
+Gohir.A07G193400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07650	COL9	CONSTANS-like 9	.
+Gohir.A07G193900	FALSE	TRUE	FALSE	FALSE	FALSE	1	2	AT2G04160	AIR3	Subtilisin-like serine endopeptidase family protein	Subtilisin proteases have been associated with cell wall composition in Arabidopsis thaliana specifically the mucilage content of cell walls (Rautengarten et al. 2008). 
+Gohir.A07G194500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G79430	APLWDY	Homeodomain-like superfamily protein	.
+Gohir.A07G194600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G12650	none	Endomembrane protein 70 protein family	.
+Gohir.A07G194800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G12780	none	Chaperone DnaJ-domain superfamily protein	.
+Gohir.A07G195200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G48370	none	Thioesterase/thiol ester dehydrase-isomerase superfamily protein	.
+Gohir.A07G195300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G43820	ATSAGT1GTSAGT1SGT1UGT74F2	UDP-glucosyltransferase 74F2	.
+Gohir.A07G195400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G48380	BIR1	BAK1-interacting receptor-like kinase 1	.
+Gohir.A07G195700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07520	ATGLR1.4GLR1.4	glutamate receptor 1.4	.
+Gohir.A07G195800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G48400	ATGLR1.2GLR1.2	Glutamate receptor family protein	.
+Gohir.A07G196300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G22400	LOX5	PLAT/LH2 domain-containing lipoxygenase family protein	.
+Gohir.A07G196400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07470	none	Protein of unknown function DUF538	.
+Gohir.A07G196600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G25410	none	Sodium Bile acid symporter family	.
+Gohir.A08G189200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G42450	none	alpha/beta-Hydrolases superfamily protein	.
+Gohir.A08G189800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G24530	DMR6	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	.
+Gohir.A08G189900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G23240	ATERF1ERF1	ethylene response factor 1	.
+Gohir.A08G190700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28640	IAA11	indole-3-acetic acid inducible 11	.
+Gohir.A08G191100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G18760	CHR8	chromatin remodeling 8	.
+Gohir.A08G191700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28600	NPGR2	no pollen germination related 2	.
+Gohir.A08G191800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G08850	none	Leucine-rich repeat receptor-like protein kinase family protein	.
+Gohir.A08G192300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G20300	ALE2	Protein kinase superfamily protein	.
+Gohir.A08G192400	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT5G43900	ATMYA2MYA2XI-2XI-6	myosin 2	.
+Gohir.A08G192600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28760	none	Protein of unknown function (DUF3741)	.
+Gohir.A08G193900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G24715	none	Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain	.
+Gohir.A08G194700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G34930	none	disease resistance family protein / LRR family protein	.
+Gohir.A08G194900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G24870	none	Helicase/SANT-associated DNA binding protein	.
+Gohir.A08G195300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G25070	RIN4	RPM1 interacting protein 4	.
+Gohir.A08G195400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G25110	AtFaTAFaTA	fatA acyl-ACP thioesterase	.
+Gohir.A08G195500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07220	none	SMAD/FHA domain-containing protein 	.
+Gohir.A08G195900	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT1G07890	APX1ATAPX01ATAPX1CS1MEE6	ascorbate peroxidase 1	.
+Gohir.A08G196600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G20770	AtEIN3EIN3	Ethylene insensitive 3 family protein	.
+Gohir.A08G196800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G27040	AGO4OCP11	Argonaute family protein	.
+Gohir.A08G196900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G41060	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A08G197100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G21170	AKINBETA1	5\-AMP-activated protein kinase beta-2 subunit protein	.
+Gohir.D12G157500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G34300	none	lectin protein kinase family protein	.
+Gohir.D12G157900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G14750	SDS	Cyclin family protein	.
+Gohir.D12G158100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G14810	none	semialdehyde dehydrogenase family protein	.
+Gohir.D12G158400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G10850	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.D12G158500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G11920	none	glutaredoxin-related	.
+Gohir.D12G158900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G19830	NTMC2T5.2NTMC2TYPE5.2	Calcium-dependent lipid-binding (CaLB domain) family protein	.
+Gohir.D12G159300	FALSE	TRUE	FALSE	FALSE	FALSE	1	2	AT1G01380	ETC1	Homeodomain-like superfamily protein	ETC1 is involved in trichome and root hair patterning in Arabidopsis.
+Gohir.D12G160700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G26170	none	ARM repeat superfamily protein	.
+Gohir.D12G160900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G57030	none	Calcium-dependent phosphotriesterase superfamily protein	.
+Gohir.D12G161100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G26190	none	Phosphoribulokinase / Uridine kinase family	.
+Gohir.D12G161900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G68990	MGP3	male gametophyte defective 3	.
+Gohir.A06G064100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G29010	AIM1	Enoyl-CoA hydratase/isomerase family	.
+Gohir.A06G064300	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT4G28950	ARAC7ATRAC7ATROP9RAC7ROP9	RHO-related protein from plants 9	.
+Gohir.A06G064500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G29100	none	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	.
+Gohir.A06G066500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G19680	none	Leucine-rich repeat (LRR) family protein	.
+Gohir.A06G066600	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G19950	GC1	golgin candidate 1	.
+Gohir.A06G066700	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT1G35190	none	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	.
+Gohir.A06G066900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G26080	ABI1AtABI1	Protein phosphatase 2C family protein	.
+Gohir.A06G067200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G19880	none	Nucleotide-diphospho-sugar transferases superfamily protein	.
+Gohir.A06G068100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G56550	ATOXS3OXS3	oxidative stress 3	.
+Gohir.A06G068200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G56590	none	O-Glycosyl hydrolases family 17 protein	.
+Gohir.A06G068300	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT2G19760	PFN1PRF1	profilin 1	fiber domestication a la ying
+Gohir.A06G068400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G29340	PRF4	profilin 4	fiber domestication a la ying
+Gohir.A06G068700	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G56610	none	Phosphotyrosine protein phosphatases superfamily protein	.
+Gohir.A06G069100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT4G26270	PFK3	phosphofructokinase 3	.
+Gohir.A06G069200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT4G29210	GGT3GGT4	gamma-glutamyl transpeptidase 4	.
+Gohir.A06G070300	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G56710	none	Ribosomal protein L31e family protein	.
+Gohir.A06G070600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G19730	none	Ribosomal L28e protein family	.
+Gohir.A06G071200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G56750	NDL1	N-MYC downregulated-like 1	.
+Gohir.A06G072100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT4G29680	none	Alkaline-phosphatase-like family protein	.
+Gohir.A06G072700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G19520	ACG1ATMSI4FVEMSI4NFC04NFC4	Transducin family protein / WD-40 repeat family protein	.
+Gohir.A06G072800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G17611	ATRBL14RBL14	RHOMBOID-like protein 14	.
+Gohir.A06G072900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G56900	none	CwfJ-like family protein / zinc finger (CCCH-type) family protein	.
+Gohir.A06G073500	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT1G72880	none	Survival protein SurE-like phosphatase/nucleotidase	.
+Gohir.A06G075000	FALSE	FALSE	FALSE	TRUE	FALSE	0	1	AT1G72830	ATHAP2CHAP2CNF-YA3	nuclear factor Y subunit A3	.
+Gohir.A07G175800	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G37600	ATGLN1;1ATGSR1GLN1;1GSR 1	glutamine synthase clone R1	.
+Gohir.A07G176400	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT1G48480	RKL1	receptor-like kinase 1	.
+Gohir.A07G176700	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT1G65820	none	microsomal glutathione s-transferase putative	.
+Gohir.A07G177400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT3G07970	QRT2	Pectin lyase-like superfamily protein	Required for pollen separation during normal development. In qrt mutants the outer walls of the four meiotic products of the pollen mother cell are fused and pollen grains are released in tetrads.May be required for cell type-specific pectin degradation.
+Gohir.A07G178600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G15740	none	O-fucosyltransferase family protein	.
+Gohir.A07G183400	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G30890	none	Cytochrome b561/ferric reductase transmembrane protein family	.
+Gohir.A07G183800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G22270	none	Topoisomerase II-associated protein PAT1	.
+Gohir.A07G190000	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G42080	ADL1ADL1AAG68DL1DRP1ARSW9	dynamin-like protein	Encodes a dynamin-like protein related to phragmoplastin. Mutations in this gene in combination with mutation in ADL1E result in defects in embryogenesis cell plate formation and trichome branching. Also controls vascular patterning in combination with VAN3 and GNOM. DRP2B and DRP1A participate together in clathrin-coated vesicle formation during endocytosis.
+Gohir.A07G190100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G07810	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A07G190300	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G35735	none	Auxin-responsive family protein	plant growth; already in MS
+Gohir.A07G190400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G48130	none	Phototropic-responsive NPH3 family protein	Plant growth
+Gohir.A07G190800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G05100	LHCB2LHCB2.1	photosystem II light harvesting complex gene 2.1	.
+Gohir.A07G192300	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G12730	FLA2	FASCICLIN-like arabinogalactan 2	exhibit up-regulation in domesticated (versus wild) cottons (Yoo and Wendel 2014) and have Arabidopsis homologs that function in cell wall biosynthesis
+Gohir.A07G193300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G04240	XERICO	RING/U-box superfamily protein	.
+Gohir.A07G194000	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G17170	AT-RAB2ATRAB-B1BATRAB2AATRABB1CRAB-B1BRAB2ARABB1C	RAB GTPase homolog B1C	these genes influence the cell wall composition (both)
+Gohir.A07G194100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G48300	ADG1APS1	ADP glucose pyrophosphorylase  1	.
+Gohir.A07G195500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G48385	none	FRIGIDA-like protein	.
+Gohir.A07G196200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G07480	none	2Fe-2S ferredoxin-like superfamily protein	.
+Gohir.A07G196700	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G43060	IBH1	ILI1 binding bHLH 1	.
+Gohir.A08G188800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G30590	WRKY21	WRKY DNA-binding protein 21	.
+Gohir.A08G189500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G10490	none	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	.
+Gohir.A08G192500	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G28720	YUC8	Flavin-binding monooxygenase family protein	plant growth; already in MS
+Gohir.A08G193200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G28820	none	HIT-type Zinc finger family protein	.
+Gohir.A08G194200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G07090	none	PPPDE putative thiol peptidase family protein	.
+Gohir.A08G194400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G48800	none	Phototropic-responsive NPH3 family protein	Plant growth
+Gohir.A08G194500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G32720	ATCB5-BB5 4CB5-B	cytochrome B5 isoform B	.
+Gohir.A08G195100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G25030	none	RING/U-box superfamily protein	.
+Gohir.A08G195600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G24590	ANAC091TIP	TCV-interacting protein	.
+Gohir.A08G196700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G21105	none	Plant L-ascorbate oxidase	.
+Gohir.A08G197300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G60580	none	RING/U-box superfamily protein	.
+Gohir.D12G157000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G01905	CYCJ18	cyclin J18	.
+Gohir.D12G157300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G01830	AHK4ATCRE1CRE1WOLWOL1	CHASE domain containing histidine kinase protein	.
+Gohir.D12G158200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G10870	AGD4	ARF-GAP domain 4	.
+Gohir.D12G158300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G60670	none	Protein of unknown function (DUF3755)	.
+Gohir.D12G158600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G37790	none	NAD(P)-linked oxidoreductase superfamily protein	.
+Gohir.D12G158700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G24255	none	RNA-directed DNA polymerase (reverse transcriptase)-related family protein	.
+Gohir.D12G159700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G05710	ACO3	aconitase 3	.
+Gohir.D12G160200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT1G05200	ATGLR3.4GLR3.4GLUR3	glutamate receptor 3.4	.
+Gohir.D12G161400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G49780	ATPSK3 (FORMER SYMBOL)ATPSK4PSK4	phytosulfokine 4 precursor	.
+Gohir.A06G063400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G20120	COV1	Protein of unknown function (DUF502)	.
+Gohir.A06G063600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G16120	none	Dynein light chain type 1 family protein	.
+Gohir.A06G064600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28830	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.A06G064700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29060	emb2726	elongation factor Ts family protein	.
+Gohir.A06G064900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28850	ATXTH26XTH26	xyloglucan endotransglucosylase/hydrolase 26	.
+Gohir.A06G065100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28880	ckl3	casein kinase I-like 3	.
+Gohir.A06G065600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28910	NINJA	novel interactor of JAZ	.
+Gohir.A06G065700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G77210	AtSTP14STP14	sugar transporter 14	.
+Gohir.A06G065800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G20020	ATCAF1CAF1	RNA-binding CRS1 / YhbY (CRM) domain-containing protein	.
+Gohir.A06G065900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G11590	TINY2	Integrase-type DNA-binding superfamily protein	.
+Gohir.A06G066000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G02750	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A06G066200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G73110	none	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.A06G066300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G19690	STT3A	staurosporin and temperature sensitive 3-like A	.
+Gohir.A06G066400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G77180	SKIP	chromatin protein family	.
+Gohir.A06G067300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29120	none	6-phosphogluconate dehydrogenase family protein	.
+Gohir.A06G067400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29130	ATHXK1GIN2HXK1	hexokinase 1	.
+Gohir.A06G067600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29140	none	MATE efflux family protein	.
+Gohir.A06G067800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G19740	none	Peptidase M28 family protein	.
+Gohir.A06G068500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29260	none	HAD superfamily subfamily IIIB acid phosphatase 	.
+Gohir.A06G068600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29240	none	Leucine-rich repeat (LRR) family protein	.
+Gohir.A06G068800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29230	anac075NAC075	NAC domain containing protein 75	.
+Gohir.A06G068900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G16480	MPPalpha	mitochondrial processing peptidase alpha subunit	.
+Gohir.A06G069000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G10650	none	RING/U-box superfamily protein	.
+Gohir.A06G069300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G26090	RPS2	NB-ARC domain-containing disease resistance protein	.
+Gohir.A06G069400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G27190	none	NB-ARC domain-containing disease resistance protein	.
+Gohir.A06G069600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G26260	MIOX4	myo-inositol oxygenase 4	.
+Gohir.A06G069700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G57620	AtMYB36MYB36	myb domain protein 36	.
+Gohir.A06G069900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G61640	AGP20AtAGP20	arabinogalactan protein 20	.
+Gohir.A06G070000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29160	SNF7.1	SNF7 family protein	.
+Gohir.A06G070200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G56680	EMB2755SYNC1SYNC1 ARATH	Class II aminoacyl-tRNA and biotin synthetases superfamily protein	.
+Gohir.A06G070400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G17800	AtENODL22ENODL22	early nodulin-like protein 22	.
+Gohir.A06G070700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29420	none	F-box/RNI-like superfamily protein	.
+Gohir.A06G070800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G26220	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.A06G070900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29480	none	Mitochondrial ATP synthase subunit G protein	.
+Gohir.A06G071500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G56840	none	myb-like transcription factor family protein	.
+Gohir.A06G071800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G19580	TET2	tetraspanin2	.
+Gohir.A06G071900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29590	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.A06G072000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29670	ACHT2	atypical CYS  HIS rich thioredoxin 2	.
+Gohir.A06G072200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G19560	EER5	proteasome family protein	.
+Gohir.A06G072400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G56860	GATA21GNC	GATA type zinc finger transcription factor family protein	.
+Gohir.A06G073200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G47590	none	alpha/beta-Hydrolases superfamily protein	.
+Gohir.A06G073300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G19490	none	recA DNA recombination family protein	.
+Gohir.A06G073700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G57020	ATNMT1NMT1	myristoyl-CoA:protein N-myristoyltransferase	.
+Gohir.A06G073900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G57040	none	Lactoylglutathione lyase / glyoxalase I family protein	.
+Gohir.A06G074300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29830	VIP3	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A06G074400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29840	MTO2TS	Pyridoxal-5\-phosphate-dependent enzyme family protein	.
+Gohir.A06G074800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G53260	ATPAL2PAL2	phenylalanine ammonia-lyase 2	.
+Gohir.A06G074900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G20510	AL5	alfin-like 5	.
+Gohir.A06G075100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G13640	ATPDATPDATPDAT1	phospholipid:diacylglycerol acyltransferase	.
+Gohir.A06G075200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G20540	ATBRXL4BRX-LIKE4BRXL4	BREVIS RADIX-like 4	.
+Gohir.A07G176300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G38710	none	Methylenetetrahydrofolate reductase family protein	.
+Gohir.A07G176500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G78380	ATGSTU19GST8GSTU19	glutathione S-transferase TAU 19	.
+Gohir.A07G177000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G26618	ERF1-3	eukaryotic release factor 1-3	.
+Gohir.A07G177100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G37710	none	alpha/beta-Hydrolases superfamily protein	.
+Gohir.A07G177200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07890	none	Ypt/Rab-GAP domain of gyp1p superfamily protein	.
+Gohir.A07G177300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G66250	none	O-Glycosyl hydrolases family 17 protein	.
+Gohir.A07G177800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG00520	none	unfolded protein binding	.
+Gohir.A07G177900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G30530	ATBZIP42bZIP42	basic leucine-zipper 42	.
+Gohir.A07G178000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G02350	GAUT9	galacturonosyltransferase 9	.
+Gohir.A07G178300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G16600	AtMYB43MYB43	myb domain protein 43	.
+Gohir.A07G178800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G02260	ASA1BIGCRM1DOC1LPR1TIR3UMB1	auxin transport protein (BIG)	.
+Gohir.A07G182800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G42990	none	GDSL-like Lipase/Acylhydrolase superfamily protein	.
+Gohir.A07G182900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34480	none	Ribosomal protein L18ae/LX family protein	.
+Gohir.A07G183000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G38020	EMB258MANVCL1	vacuoleless1 (VCL1)	.
+Gohir.A07G183100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G61580	ARP2RPL3B	R-protein L3 B	.
+Gohir.A07G189800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07870	none	F-box and associated interaction domains-containing protein	.
+Gohir.A07G190900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G22910	none	ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein	.
+Gohir.A07G191100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G48170	SLY2	F-box family protein	.
+Gohir.A07G192000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G16360	none	5\-AMP-activated protein kinase beta-2 subunit protein	.
+Gohir.A07G192200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G14540	NF-YB3	nuclear factor Y subunit B3	.
+Gohir.A07G192500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G05260	CYP79A2	cytochrome p450 79a2	.
+Gohir.A07G192800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07680	none	emp24/gp25L/p24 family/GOLD family protein	.
+Gohir.A07G193200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G03430	AHP5	histidine-containing phosphotransfer factor 5	.
+Gohir.A07G193600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G04220	none	Plant protein of unknown function (DUF868)	.
+Gohir.A07G195000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G39780	RNS2	ribonuclease 2	.
+Gohir.A07G195600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07525	ATATG10ATG10	autophagocytosis-associated family protein	.
+Gohir.A07G196100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07490	AGD11	ARF-GAP domain 11	.
+Gohir.A08G188900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G15420	none	Transcription factor TFIIIC tau55-related protein	.
+Gohir.A08G189100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G58190	ASL16LBD29	lateral organ boundaries-domain 29	.
+Gohir.A08G189300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G31260	APG9ATAPG9	autophagy 9 (APG9)	.
+Gohir.A08G189400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G31240	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A08G189700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G10500	none	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	.
+Gohir.A08G190100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G36070	ATTIM44-2TIM44-2	translocase inner membrane subunit 44-2	.
+Gohir.A08G190200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G06190	none	Rho termination factor	.
+Gohir.A08G190300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G31160	LSH3	Protein of unknown function (DUF640)	.
+Gohir.A08G190400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28530	anac074NAC074	NAC domain containing protein 74	.
+Gohir.A08G190500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43920	none	transducin family protein / WD-40 repeat family protein	.
+Gohir.A08G190600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G04300	none	RmlC-like cupins superfamily protein	.
+Gohir.A08G190800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43970	ATTOM22-VTOM22-VTOM9-2	translocase of outer membrane 22-V	.
+Gohir.A08G190900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43990	SDG18SUVR2	SET-domain containing protein lysine methyltransferase family protein	.
+Gohir.A08G191300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G20470	none	AGC (cAMP-dependent cGMP-dependent and protein kinase C) kinase family protein	.
+Gohir.A08G191400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28540	CKL6PAPK1	casein kinase I-like 6	.
+Gohir.A08G191500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28556	RIC7	PAK-box/P21-Rho-binding family protein	.
+Gohir.A08G191900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43990	SDG18SUVR2	SET-domain containing protein lysine methyltransferase family protein	.
+Gohir.A08G192000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43970	ATTOM22-VTOM22-VTOM9-2	translocase of outer membrane 22-V	.
+Gohir.A08G192100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G04300	none	RmlC-like cupins superfamily protein	.
+Gohir.A08G192200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43920	none	transducin family protein / WD-40 repeat family protein	.
+Gohir.A08G192700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G20230	none	Tetraspanin family protein	.
+Gohir.A08G192900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G26594	ARR24RR24	response regulator 24	.
+Gohir.A08G193100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G18110	none	Translation elongation  factor EF1B/ribosomal protein S6 family protein	.
+Gohir.A08G193300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29040	RPT2a	regulatory particle AAA-ATPase 2A	.
+Gohir.A08G193400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29035	none	Plant self-incompatibility protein S1 family	.
+Gohir.A08G193600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29035	none	Plant self-incompatibility protein S1 family	.
+Gohir.A08G194100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G24770	CLE41	CLAVATA3/ESR-RELATED 41	.
+Gohir.A08G194300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G48820	ICK6KRP3	inhibitor/interactor with cyclin-dependent kinase	.
+Gohir.A08G194800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G48740	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.A08G195200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07190	none	B-cell receptor-associated protein 31-like 	.
+Gohir.A08G195700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G07890	APX1ATAPX01ATAPX1CS1MEE6	ascorbate peroxidase 1	.
+Gohir.A08G196100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G07890	APX1ATAPX01ATAPX1CS1MEE6	ascorbate peroxidase 1	.
+Gohir.A08G196200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G27110	FRS3	FAR1-related sequence 3	.
+Gohir.A08G196400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G36240	none	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	.
+Gohir.A08G197000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G46290	none	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A08G197200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G68907	none	Defensin-like (DEFL) family protein	.
+Gohir.D07G123400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G12200	PYD2	pyrimidine 2	.
+Gohir.D12G157100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G25220	ASB1TRP4WEI7	anthranilate synthase beta subunit 1	.
+Gohir.D12G157200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G66150	TMK1	transmembrane kinase 1	.
+Gohir.D12G157400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G01830	AHK4ATCRE1CRE1WOLWOL1	CHASE domain containing histidine kinase protein	.
+Gohir.D12G157700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G01818	none	PLATZ transcription factor family protein	.
+Gohir.D12G157800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G67950	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.D12G158800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G02180	TOM3	tobamovirus multiplication protein 3	.
+Gohir.D12G159100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G01190	none	Peroxidase superfamily protein	.
+Gohir.D12G159200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G32350	none	Ubiquitin-like superfamily protein	.
+Gohir.D12G159400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G05975	none	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	.
+Gohir.D12G159600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G05210	none	Transmembrane protein 97 predicted	.
+Gohir.D12G159900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G05210	none	Transmembrane protein 97 predicted	.
+Gohir.D12G160000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G32380	none	Transmembrane protein 97 predicted	.
+Gohir.D12G160300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G05710	ACO3	aconitase 3	.
+Gohir.D12G160600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G62040	ATG8C	Ubiquitin-like superfamily protein	.
+Gohir.D12G161000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G53490	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.D12G161200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G68850	none	Peroxidase superfamily protein	.
+Gohir.D12G161300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G13580	LAG13	LAG1 longevity assurance homolog 3	.
+Gohir.D12G161500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G13600	AtbZIP58bZIP58	basic leucine-zipper 58	.
+Gohir.A06G059900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G060900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G061900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062600	FALSE	FALSE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062800	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G062900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G063000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G063100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G063200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G063300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G063700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G064000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G064400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G064800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G065000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G065200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G067500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G067900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G068000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G069500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G071600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G071700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G072300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G072600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G074000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G074500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G074600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G074700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G075900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G076900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077200	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G077900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078700	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G078900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G079900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080200	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080500	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G080900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G081900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G082900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G083900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084300	FALSE	FALSE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G084900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G085900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086200	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G086900	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G087900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088700	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G088900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G089900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090000	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090500	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G090900	FALSE	FALSE	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G091900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G092900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G093900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G094900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G095900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096800	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G096900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097100	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G097900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G098900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099100	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G099900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100400	FALSE	TRUE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100600	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G100900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101200	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101700	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G101900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G102900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G103900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G104900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G105900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G106900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G107900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108500	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G108900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G109900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G110900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111500	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G111900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G112000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A06G112100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G176000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G176100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G176900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G178400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G178900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179600	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G179900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G180900	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G181900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G182600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G183200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G183300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G184900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185100	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G185900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186100	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G186900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187500	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G187900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G188900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G189900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G190700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G191300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G191500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G191600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G191700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G191900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G192100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G192600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G192900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G193000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G193100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G193500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G193700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G193800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G194200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G194300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G194400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G194700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G195100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G195900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A07G196500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G137900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138500	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G138900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139200	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G139900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G140900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G141900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G142900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G143900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144100	FALSE	FALSE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G144900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G145900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146500	FALSE	FALSE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G146900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G147900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G148900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G149900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G150900	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151100	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151700	FALSE	FALSE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G151900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G152900	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153500	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153700	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G153900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G154900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155700	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G155900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156100	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156400	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G156900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G157900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158000	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G158900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G159900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G160900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161600	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G161900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162000	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162500	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G162900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G163900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164200	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G164900	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G165900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G166900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G167900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168600	FALSE	FALSE	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G168900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G169900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170000	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G170900	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G171900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G172900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G173900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G174900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175700	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G175900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G176900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G177900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G178900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179400	TRUE	TRUE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179700	TRUE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G179900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G180900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G181900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182500	FALSE	FALSE	TRUE	FALSE	TRUE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G182900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G183900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G184900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G185900	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G186900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187300	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G187900	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G188700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G190000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G191000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G191200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G191600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G193000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G193500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G193700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G193800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G194000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G194600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G195000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G195800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A08G197400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G123500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G123600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G123700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G123800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G123900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G124700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136300	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G136900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G137900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G138900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G139900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G140900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G141900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G142900	FALSE	TRUE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143700	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G143900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G144900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G145900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146300	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G146900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G147900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G148900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G149900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150000	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150300	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G150900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G151900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152600	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G152900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G153900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G154900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G155900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156000	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G156900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G157600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G159000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G159800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G160400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G160500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G160800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G161600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G161700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G161800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G162900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G163900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164200	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G164900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165600	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G165900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166800	FALSE	FALSE	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA
+Gohir.D12G166900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G167900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168800	FALSE	FALSE	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA
+Gohir.D12G168900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G169900	TRUE	TRUE	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G170900	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G171900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G172900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173000	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G173900	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G174900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175500	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G175900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176500	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G176900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177000	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G177900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178000	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178400	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178800	TRUE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G178900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G179000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G179100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G179200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D12G179300	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA

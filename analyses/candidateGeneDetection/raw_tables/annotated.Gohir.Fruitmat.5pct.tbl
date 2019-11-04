@@ -1,0 +1,857 @@
+Row.names	AA	eff	DGE	TF	other	relevance	total	Best.hit.arabi.name	arabi.symbol	arabi.defline	description
+Gohir.A01G086500	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT5G55530	none	Calcium-dependent lipid-binding (CaLB domain) family protein	.
+Gohir.A01G087900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G13110	CYP71B7	cytochrome P450 family 71 subfamily B polypeptide 7	.
+Gohir.A01G093300	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G55820	none	Kinase-related protein of unknown function (DUF1296)	.
+Gohir.A01G096200	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G30070	ATKT1ATKT1PATKUP1KT1KUP1	potassium transporter 1	.
+Gohir.A01G097100	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G03240	none	EXS (ERD1/XPR1/SYG1) family protein	.
+Gohir.A01G098300	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT5G64330	JK218NPH3RPT3	Phototropic-responsive NPH3 family protein	Plant growth
+Gohir.A01G098800	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G55790	none	Domain of unknown function (DUF2431)	.
+Gohir.A01G098900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G55790	none	Domain of unknown function (DUF2431)	.
+Gohir.A01G099200	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT5G17270	none	Protein prenylyltransferase superfamily protein	.
+Gohir.A01G100800	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT1G79280	AtTPRNUA	nuclear pore anchor	Mutations affect flowering time regulation and other developmental processes. Probably acts in the same pathway as ESD4 in affecting flowering time vegetative and inflorescence development.
+Gohir.A01G101500	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT1G20980	ATSPL14FBR6SPL14SPL1R2	squamosa promoter binding protein-like 14	 It unctions as a transcriptional regulator that plays a role not only in sensitivity to FB1 but also in the development of normal plant architecture.
+Gohir.A01G101900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G33620	none	AT hook motif DNA-binding family protein	.
+Gohir.A01G103800	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G20760	none	Calcium-binding EF hand family protein	.
+Gohir.A01G105100	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G50160	none	Plant protein of unknown function (DUF247)	.
+Gohir.A01G107000	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT4G35240	none	Protein of unknown function (DUF630 and DUF632)	.
+Gohir.A01G144900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G59960	none	NAD(P)-linked oxidoreductase superfamily protein	.
+Gohir.A01G145200	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G01940	ATIDD15SGR5	C2H2-like zinc finger protein	.
+Gohir.A01G145400	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G45220	none	Plant invertase/pectin methylesterase inhibitor superfamily	.
+Gohir.A05G295700	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G298300	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A12G030900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G14520	none	CBS domain-containing protein with a domain of unknown function (DUF21)	.
+Gohir.A12G036700	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G20200	EMB2719HAP15	PAM domain (PCI/PINT associated module) protein	.
+Gohir.A12G037300	TRUE	TRUE	FALSE	FALSE	TRUE	0	3	AT4G35020	ARAC3ATROP6RAC3RHO1PSROP6	RAC-like 3	.
+Gohir.A12G037600	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT4G38600	KAKUPL3	HEAT repeat ;HECT-domain (ubiquitin-transferase)	encodes a member of HECT ubiquitin protein ligase family that is involved in trichome cell morphogenesis. Mutants in this gene exhibit supernumerary trichome branches and increased DNA content.
+Gohir.A12G038300	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G16640	ATTOC132TOC132	multimeric translocon complex in the outer envelope membrane 132	.
+Gohir.A12G041700	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G62020	none	Coatomer alpha subunit	.
+Gohir.A12G045800	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G34660	ATMRP2EST4MRP2	multidrug resistance-associated protein 2	.
+Gohir.D05G103900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT2G28315	none	Nucleotide/sugar transporter family protein	.
+Gohir.D05G107000	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT2G28110	FRA8IRX7	Exostosin family protein	It is expressed specifically in developing vessels and fiber cells and FRA8 is targeted to Golgi. Mutants have irregular xylem formation reduced cellulose levels and plants are smaller than normal siblings.
+Gohir.D05G108300	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT4G18640	MRH1	Leucine-rich repeat protein kinase family protein	.
+Gohir.D07G154700	TRUE	TRUE	FALSE	TRUE	FALSE	0	3	AT3G23240	ATERF1ERF1	ethylene response factor 1	.
+Gohir.D07G155300	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT3G54790	none	ARM repeat superfamily protein	.
+Gohir.D07G159100	TRUE	TRUE	FALSE	FALSE	FALSE	1	3	AT2G20370	KAM1MUR3	Exostosin family protein	whose Arabidopsis orthologs are involved in actin organization and the synthesis of cell wall components (Reiter Chapple and Somerville 1997).
+Gohir.D07G159900	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G04150	none	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	.
+Gohir.D07G160500	TRUE	TRUE	TRUE	FALSE	FALSE	0	3	AT1G34060	none	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	.
+Gohir.D11G112700	TRUE	TRUE	FALSE	TRUE	FALSE	0	3	AT2G47260	ATWRKY23WRKY23	WRKY DNA-binding protein 23	.
+Gohir.A01G085800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G50590	none	RmlC-like cupins superfamily protein	.
+Gohir.A01G086000	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT5G59240	none	Ribosomal protein S8e family protein	.
+Gohir.A01G086200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G50575	none	Putative lysine decarboxylase family protein	.
+Gohir.A01G086600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55540	LOP1TRN1	tornado 1	.
+Gohir.A01G086700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07810	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A01G086800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G26730	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.A01G086900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55560	none	Protein kinase superfamily protein	.
+Gohir.A01G087500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G07100	ERMO2SEC24A	Sec23/Sec24 protein transport family protein	.
+Gohir.A01G087600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G05660	AtRLP33RLP33	receptor like protein 33	.
+Gohir.A01G088300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G25180	CYP71B14	cytochrome P450 family 71 subfamily B polypeptide 14	.
+Gohir.A01G088500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G26300	CYP71B34	cytochrome P450 family 71 subfamily B polypeptide 34	.
+Gohir.A01G088600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G25120	CYP71B11	ytochrome p450 family 71 subfamily B polypeptide 11	.
+Gohir.A01G088800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G25180	CYP71B14	cytochrome P450 family 71 subfamily B polypeptide 14	.
+Gohir.A01G088900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G09840	none	Putative endonuclease or glycosyl hydrolase	.
+Gohir.A01G089900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G13110	ATSERAT2;2SAT-1SAT-ASAT-MSAT3SERAT2;2	serine acetyltransferase 2;2	.
+Gohir.A01G090400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G55910	ZIP11	zinc transporter 11 precursor	.
+Gohir.A01G090500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G55900	emb1860TIM50	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	.
+Gohir.A01G090700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55630	ATKCO1ATTPK1KCO1TPK1	Outward rectifying potassium channel protein	.
+Gohir.A01G090900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55630	ATKCO1ATTPK1KCO1TPK1	Outward rectifying potassium channel protein	.
+Gohir.A01G091500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G58860	CYP86CYP86A1	cytochrome P450 family 86 subfamily A polypeptide 1	.
+Gohir.A01G091600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G25434	ATNUDT10NUDT10	nudix hydrolase homolog 10	.
+Gohir.A01G091800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55830	none	Concanavalin A-like lectin protein kinase family protein	.
+Gohir.A01G091900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G55870	AHG2ATPARN	Polynucleotidyl transferase ribonuclease H-like superfamily protein	.
+Gohir.A01G092700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G55860	none	Plant protein of unknown function (DUF827)	.
+Gohir.A01G093200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G26600	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.A01G093900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G56000	AtHsp90.4Hsp81.4	HEAT SHOCK PROTEIN 81.4	.
+Gohir.A01G094000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G26555	none	FKBP-like peptidyl-prolyl cis-trans isomerase family protein	.
+Gohir.A01G094100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G26550	none	Got1/Sft2-like vescicle transport protein family	.
+Gohir.A01G094200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G56040	none	Leucine-rich receptor-like protein kinase family protein	.
+Gohir.A01G094300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G44730	ATKP1KP1	kinesin-like protein 1	.
+Gohir.A01G094400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G44730	ATKP1KP1	kinesin-like protein 1	.
+Gohir.A01G094700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G62390	none	Octicosapeptide/Phox/Bem1p (PB1) domain-containing protein / tetratricopeptide repeat (TPR)-containing protein	.
+Gohir.A01G095000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G26470	none	Calcium-binding EF-hand family protein	.
+Gohir.A01G095300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G17220	FUG1	Translation initiation factor 2 small GTP-binding protein	.
+Gohir.A01G096400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G04240	XERICO	RING/U-box superfamily protein	.
+Gohir.A01G096500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G45790	none	Ubiquitin carboxyl-terminal hydrolase family protein	.
+Gohir.A01G096600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G56130	none	Leucine-rich repeat transmembrane protein kinase	.
+Gohir.A01G096700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G17250	none	Alkaline-phosphatase-like family protein	.
+Gohir.A01G097600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G28130	GH3.17	Auxin-responsive GH3 family protein	.
+Gohir.A01G098100	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT1G16310	none	Cation efflux family protein	.
+Gohir.A01G098600	FALSE	TRUE	FALSE	FALSE	FALSE	1	2	AT1G16300	GAPCP-2	glyceraldehyde-3-phosphate dehydrogenase of plastid 2	Encodes one of the chloroplast/plastid localized GAPDH isoforms (GAPCp1/At1g79530 and GAPCp2/At1g16300). gapcp double mutants display a drastic phenotype of arrested root development dwarfism and sterility. GAPCps are important for the synthesis of serine in roots.
+Gohir.A01G099100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G00231	MEE50	ARM repeat superfamily protein	.
+Gohir.A01G099700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G00231	MEE50	ARM repeat superfamily protein	.
+Gohir.A01G100200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G79440	ALDH5F1SSADHSSADH1	aldehyde dehydrogenase 5F1	.
+Gohir.A01G100300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G79460	ATKSATKS1GA2KSKS1	Terpenoid cyclases/Protein prenyltransferases superfamily protein	.
+Gohir.A01G100700	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT3G12670	emb2742	CTP synthase family protein	.
+Gohir.A01G101100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G66260	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A01G101300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G42390	none	Insulinase (Peptidase family M16) family protein	.
+Gohir.A01G102000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G33630	none	NAD(P)-binding Rossmann-fold superfamily protein	.
+Gohir.A01G103100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G24360	ATIRE1-1IRE1-1	inositol requiring 1-1	.
+Gohir.A01G104000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G76690	ATOPR2OPR2	12-oxophytodienoate reductase 2	.
+Gohir.A01G104100	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT1G20693	HMG BETA 1HMGB2NFD02NFD2	high mobility group B2	.
+Gohir.A01G104500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G38260	none	Protein of unknown function (DUF833)	.
+Gohir.A01G104700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G20650	none	Protein kinase superfamily protein	.
+Gohir.A01G104800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G38350	none	Patched family protein	.
+Gohir.A01G105300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G76310	CYCB2;4	CYCLIN B2;4	.
+Gohir.A01G106000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G26040	none	HXXXD-type acyl-transferase family protein	.
+Gohir.A01G142500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G59820	ALA3	aminophospholipid ATPase 3	.
+Gohir.A01G143400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	ATCG01050	none	NADH-Ubiquinone/plastoquinone (complex I) protein	.
+Gohir.A01G144500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G37870	none	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	.
+Gohir.A01G145100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G01950	BRL2VH1	BRI1-like 2	.
+Gohir.A01G145500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G70730	none	Phosphoglucomutase/phosphomannomutase family protein	.
+Gohir.A01G146100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G19895	none	RING/U-box superfamily protein	.
+Gohir.A01G147000	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT2G01690	none	ARM repeat superfamily protein	.
+Gohir.A01G147100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G01680	none	Ankyrin repeat family protein	.
+Gohir.A01G147200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G24620	none	EF hand calcium-binding protein family	.
+Gohir.A05G290400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G04500	none	glycosyltransferase family protein 47	.
+Gohir.A05G292100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G12420	SKU5	Cupredoxin superfamily protein	.
+Gohir.A05G292900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G23440	none	Disease resistance protein (TIR-NBS class)	.
+Gohir.A05G293100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G10390	FLD	Flavin containing amine oxidoreductase family protein	.
+Gohir.A05G293800	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT4G36690	ATU2AF65A	U2 snRNP auxilliary factor large subunit splicing factor	.
+Gohir.A05G294000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G10720	none	Ankyrin repeat family protein	.
+Gohir.A05G294300	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT2G39130	none	Transmembrane amino acid transporter family protein	.
+Gohir.A05G294900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G09830	none	Protein kinase superfamily protein	.
+Gohir.A05G295100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G54826	none	Zim17-type zinc finger protein	.
+Gohir.A05G295400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G08350	GTA02GTA2	global transcription factor group A2	.
+Gohir.A05G295500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14470	none	NB-ARC domain-containing disease resistance protein	.
+Gohir.A05G295800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14470	none	NB-ARC domain-containing disease resistance protein	.
+Gohir.A05G295900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G296000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G296300	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT2G39020	none	Acyl-CoA N-acyltransferases (NAT) superfamily protein	.
+Gohir.A05G296400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G04240	ELF6	Zinc finger (C2H2 type) family protein / transcription factor jumonji (jmj) family protein	.
+Gohir.A05G296700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28320	none	Pleckstrin homology (PH) and lipid-binding START domains-containing protein	.
+Gohir.A05G296800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G32890	GATA9	GATA transcription factor 9	.
+Gohir.A05G296900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G47570	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.A05G297000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G47570	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.A05G297400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G52250	none	Duplicated homeodomain-like superfamily protein	.
+Gohir.A05G297800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G52290	IQD3	IQ-domain 3	.
+Gohir.A05G298200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G52290	IQD3	IQ-domain 3	.
+Gohir.A05G298400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14470	none	NB-ARC domain-containing disease resistance protein	.
+Gohir.A05G298500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G299000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G18610	none	Protein kinase superfamily protein	.
+Gohir.A05G299100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G55020	none	Ypt/Rab-GAP domain of gyp1p superfamily protein	.
+Gohir.A05G299500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G39380	ATEXO70H2EXO70H2	exocyst subunit exo70 family protein H2	.
+Gohir.A05G299700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G39450	ATMTP11MTP11	Cation efflux family protein	.
+Gohir.A05G299800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G10720	none	Ankyrin repeat family protein	.
+Gohir.A05G299900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G10720	none	Ankyrin repeat family protein	.
+Gohir.A05G300000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G10720	none	Ankyrin repeat family protein	.
+Gohir.A11G105900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G01660	ABC1ATABC1ATATH10	ABC transporter 1	.
+Gohir.A11G106000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G46920	POL	Protein phosphatase 2C family protein	.
+Gohir.A11G106700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G47140	none	NAD(P)-binding Rossmann-fold superfamily protein	.
+Gohir.A11G119000	FALSE	TRUE	FALSE	FALSE	TRUE	0	2	AT3G63010	ATGID1BGID1B	alpha/beta-Hydrolases superfamily protein	.
+Gohir.A11G119500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G48030	none	DNAse I-like superfamily protein	.
+Gohir.A12G030100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G15630	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.A12G030400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G42650	AOSCYP74ADDE2	allene oxide synthase	.
+Gohir.A12G030500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G42650	AOSCYP74ADDE2	allene oxide synthase	.
+Gohir.A12G030700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G16050	none	Cysteine/Histidine-rich C1 domain family protein	.
+Gohir.A12G030800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G14610	ATPR1PR 1PR1	pathogenesis-related gene 1	.
+Gohir.A12G031000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G14260	PIP	proline iminopeptidase	.
+Gohir.A12G036300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G38500	none	Protein of unknown function (DUF616)	.
+Gohir.A12G036400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G14210	PDE226PDSPDS3	phytoene desaturase 3	.
+Gohir.A12G036600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G38520	none	Protein phosphatase 2C family protein	.
+Gohir.A12G037000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G34210	ASK11SK11	SKP1-like 11	.
+Gohir.A12G037100	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT4G35030	none	Protein kinase superfamily protein	.
+Gohir.A12G037400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G16730	BGAL13	glycosyl hydrolase family 35 protein	.
+Gohir.A12G038100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G38670	none	Pathogenesis-related thaumatin superfamily protein	.
+Gohir.A12G038600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G16640	ATTOC132TOC132	multimeric translocon complex in the outer envelope membrane 132	.
+Gohir.A12G038700	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT4G38710	none	glycine-rich protein	.
+Gohir.A12G038900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G21120	none	Protein of unknown function (DUF803)	.
+Gohir.A12G039300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G16595	none	Translocon-associated protein (TRAP) alpha subunit	.
+Gohir.A12G040200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G12770	MEF22	mitochondrial editing factor  22	.
+Gohir.A12G041500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G07930	MCT2	MEI2 C-terminal RRM only like 2	.
+Gohir.A12G041800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G62020	none	Coatomer alpha subunit	.
+Gohir.A12G042200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G16390	CHR35DMS1DRD1	SNF2 domain-containing protein / helicase domain-containing protein	.
+Gohir.A12G042300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G21470	ATSAE2EMB2764SAE2	SUMO-activating enzyme 2	.
+Gohir.A12G043000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G11880	none	Pyridoxal-dependent decarboxylase family protein	.
+Gohir.A12G043800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G09830	none	Glycinamide ribonucleotide (GAR) synthetase	.
+Gohir.A12G044000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G65700	BAM1	Leucine-rich receptor-like protein kinase family protein	.
+Gohir.A12G044600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G33980	ATUPF3UPF3	Smg-4/UPF3 family protein	.
+Gohir.A12G044800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G57720	none	Translation elongation factor EF1B gamma chain	.
+Gohir.A12G044900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G56320	none	PAP/OAS1 substrate-binding domain superfamily	.
+Gohir.A12G045400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G49900	none	Beta-glucosidase GBA2 type family protein	.
+Gohir.A12G045600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G30410	ATMRP13MRP13	multidrug resistance-associated protein 13	.
+Gohir.A12G047900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G35050	none	Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain	.
+Gohir.A12G048200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G35830	none	VQ motif-containing protein	.
+Gohir.A12G048300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G44790	HMA7RAN1	copper-exporting ATPase / responsive-to-antagonist 1 / copper-transporting ATPase (RAN1)	.
+Gohir.A12G048500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G35035	URED	urease accessory protein D	.
+Gohir.A12G048700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G05280	none	RING/U-box superfamily protein	.
+Gohir.A12G048900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G20040	none	Pectin lyase-like superfamily protein	.
+Gohir.A12G049800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G34960	CAT5	cationic amino acid transporter 5	.
+Gohir.A12G049900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G57430	OTP84	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A12G050500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G18975	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.A12G050800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G34920	EDA18	RING/U-box superfamily protein	.
+Gohir.A12G051300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G30820	none	CTP synthase family protein	.
+Gohir.A12G051400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G69870	NRT1.7	nitrate transporter 1.7	.
+Gohir.A12G051600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G59640	BPEBPEpBPEubZCW32	BIG PETAL P	.
+Gohir.A12G051700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G51550	FER	Malectin/receptor-like protein kinase family protein	.
+Gohir.A12G052100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G60070	none	Adaptor protein complex AP-1 gamma subunit	.
+Gohir.A12G052400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G17240	SDG40	SET domain group 40	.
+Gohir.A12G052600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G54230	SUA	suppressor of abi3-5	.
+Gohir.A12G052800	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT1G28490	ATSYP61OSM1SYP61	syntaxin of plants 61	.
+Gohir.A12G052900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G37020	ARF8ATARF8	auxin response factor 8	.
+Gohir.A12G053000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G02680	ATNBS1NBS1	nijmegen breakage syndrome 1	.
+Gohir.A12G053200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G02690	none	nodulin MtN21 /EamA-like transporter family protein	.
+Gohir.D05G103300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G60690	IFLIFL1REV	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	.
+Gohir.D05G103400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28370	none	Uncharacterised protein family (UPF0497)	.
+Gohir.D05G103800	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT2G28320	none	Pleckstrin homology (PH) and lipid-binding START domains-containing protein	.
+Gohir.D05G104100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G60700	none	glycosyltransferase family protein 2	.
+Gohir.D05G104200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28305	ATLOG1LOG1	Putative lysine decarboxylase family protein	.
+Gohir.D05G104300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28260	ATCNGC15CNGC15	cyclic nucleotide-gated channel 15	.
+Gohir.D05G104700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G60710	none	Zinc finger (C3HC4-type RING finger) family protein	.
+Gohir.D05G104800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G08060	MOMMOM1	ATP-dependent helicase family protein	.
+Gohir.D05G104900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G23770	none	protein kinase family protein / peptidoglycan-binding LysM domain-containing protein	.
+Gohir.D05G105200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G27990	BLH8PNF	BEL1-like homeodomain 8	.
+Gohir.D05G105600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G57120	none	Protein kinase superfamily protein	.
+Gohir.D05G105700	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT5G60720	none	Protein of unknown function DUF547	.
+Gohir.D05G105800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G10350	none	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.D05G106100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28050	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.D05G106200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G08090	ACH1ATNRT2.1ATNRT2:1LIN1NRT2NRT2.1NRT2:1NRT2;1AT	nitrate transporter 2:1	.
+Gohir.D05G106500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G28070	none	ABC-2 type transporter family protein	.
+Gohir.D05G107400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G30020	none	Protein phosphatase 2C family protein	.
+Gohir.D05G107500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G07150	MAPKKK13	mitogen-activated protein kinase kinase kinase 13	.
+Gohir.D05G107600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G30060	none	Pleckstrin homology (PH) domain superfamily protein	.
+Gohir.D05G108100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G38300	none	myb-like HTH transcriptional regulator family protein	.
+Gohir.D05G108200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G30100	none	pentatricopeptide (PPR) repeat-containing protein	.
+Gohir.D05G109200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G58450	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.D07G155700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G38950	none	Transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein	.
+Gohir.D07G155900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28530	anac074NAC074	NAC domain containing protein 74	.
+Gohir.D07G156100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G21150	HAP6	ribophorin II (RPN2) family protein	.
+Gohir.D07G156300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G03930	ADK1CKL9ALPHACKL9BETA	dual specificity kinase 1	.
+Gohir.D07G156900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G20420	none	ATP citrate lyase (ACL) family protein	.
+Gohir.D07G157000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G20420	none	ATP citrate lyase (ACL) family protein	.
+Gohir.D07G157300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G35710	none	Protein kinase family protein with leucine-rich repeat domain	.
+Gohir.D07G158400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G43960	none	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain	.
+Gohir.D07G158600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28640	IAA11	indole-3-acetic acid inducible 11	.
+Gohir.D07G158700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G28650	none	Leucine-rich repeat transmembrane protein kinase family protein	.
+Gohir.D07G159300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G04120	ABCC5ATABCC5ATMRP5MRP5	multidrug resistance-associated protein 5	.
+Gohir.D07G159600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G43940	ADH2ATGSNOR1GSNORHOT5PAR2	GroES-like zinc-binding dehydrogenase family protein	.
+Gohir.D07G159700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G04140	none	Transducin family protein / WD-40 repeat family protein	.
+Gohir.D07G161100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G24650	ABI3SIS10	AP2/B3-like transcriptional factor family protein	.
+Gohir.D09G015100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G28917	MIF2	mini zinc finger 2	.
+Gohir.D09G015200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G62470	ATMYB96MYB96MYBCOV1	myb domain protein 96	.
+Gohir.D09G015300	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G39785	none	Protein of unknown function (DUF1666)	.
+Gohir.D09G015500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G26870	ANAC009FEZ	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	.
+Gohir.D09G015700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT5G39840	none	ATP-dependent RNA helicase mitochondrial putative	.
+Gohir.D11G107900	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G53480	ABCG37ATPDR9PDR9PIS1	pleiotropic drug resistance 9	.
+Gohir.D11G108000	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G53480	ABCG37ATPDR9PDR9PIS1	pleiotropic drug resistance 9	.
+Gohir.D11G108200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G62200	none	Putative endonuclease or glycosyl hydrolase	.
+Gohir.D11G109100	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G62150	PGP21	P-glycoprotein 21	.
+Gohir.D11G109400	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT4G01810	none	Sec23/Sec24 protein transport family protein	.
+Gohir.D11G109800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G23200	none	Protein kinase superfamily protein	.
+Gohir.D11G110700	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT3G62060	none	Pectinacetylesterase family protein	.
+Gohir.D11G111800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G02475	none	Polyketide cyclase/dehydrase and lipid transport superfamily protein	.
+Gohir.D11G112500	FALSE	TRUE	TRUE	FALSE	FALSE	0	2	AT2G47180	AtGolS1GolS1	galactinol synthase 1	.
+Gohir.D11G112800	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G31400	GUN1	genomes uncoupled 1	.
+Gohir.D11G113200	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.D11G113500	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G02550	none	Plant invertase/pectin methylesterase inhibitor superfamily protein	.
+Gohir.D11G113600	TRUE	TRUE	FALSE	FALSE	FALSE	0	2	AT1G02560	CLPP5NCLPP1NCLPP5	nuclear encoded CLP protease 5	.
+Gohir.A01G086300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G06130	none	Heavy metal transport/detoxification superfamily protein 	.
+Gohir.A01G087200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G17030	none	F-box family protein with a domain of unknown function (DUF295)	.
+Gohir.A01G087400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G05160	none	CCCH-type zinc fingerfamily protein with RNA-binding domain	.
+Gohir.A01G088200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G29890	none	choline monooxygenase putative (CMO-like)	.
+Gohir.A01G088400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G17240	SDG40	SET domain group 40	.
+Gohir.A01G089000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G18465	none	Chaperone DnaJ-domain superfamily protein	.
+Gohir.A01G091200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G14540	NF-YB3	nuclear factor Y subunit B3	.
+Gohir.A01G091400	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G55730	FLA1	FASCICLIN-like arabinogalactan 1	.
+Gohir.A01G092000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G13180	none	NOL1/NOP2/sun family protein / antitermination NusB domain-containing protein	.
+Gohir.A01G092500	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G55850	ATCSLE1CSLE1	cellulose synthase like E1	fiber
+Gohir.A01G092600	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G55850	ATCSLE1CSLE1	cellulose synthase like E1	fiber
+Gohir.A01G092800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G26620	none	Sucrase/ferredoxin-like family protein	.
+Gohir.A01G093000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G47750	D6PKL2PK5	D6 protein kinase like 2	.
+Gohir.A01G093500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G55970	none	RING/U-box superfamily protein	.
+Gohir.A01G093800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G26570	ATCBL3CBL3	calcineurin B-like 3	.
+Gohir.A01G094600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G55760	none	BTB/POZ domain-containing protein	.
+Gohir.A01G094800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G23940	none	FtsH extracellular protease family	.
+Gohir.A01G095800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G56090	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A01G097400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G79550	PGK	phosphoglycerate kinase	.
+Gohir.A01G099300	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G12340	none	FKBP-like peptidyl-prolyl cis-trans isomerase family protein	.
+Gohir.A01G100000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G56170	ATHAP5BHAP5BNF-YC2	nuclear factor Y subunit C2	.
+Gohir.A01G101000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G12710	none	DNA glycosylase superfamily protein	.
+Gohir.A01G101600	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G20930	CDKB2;2	cyclin-dependent kinase B2;2	Cyclin-dependent kinase expressed in flowers and suspension cell culture expression peaks during M phase in synchronized cultures. Required for proper organization of the shoot apical meristem and for hormone signaling. Expressed in the shoot apical meristem. Involved in regulation of the G2/M transition of the mitotic cell cycle.
+Gohir.A01G101700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G76510	none	ARID/BRIGHT DNA-binding domain-containing protein	.
+Gohir.A01G102200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G76420	ANAC031CUC3NAC368	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	.
+Gohir.A01G102400	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT4G35300	TMT2	tonoplast monosaccharide transporter2	.
+Gohir.A01G102500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G20823	none	RING/U-box superfamily protein	.
+Gohir.A01G103300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G33700	none	Protein phosphatase 2C family protein	.
+Gohir.A01G103500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G42350	none	Galactose oxidase/kelch repeat superfamily protein	.
+Gohir.A01G104400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G38260	none	Protein of unknown function (DUF833)	.
+Gohir.A01G104900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G76350	none	Plant regulator RWP-RK family protein	.
+Gohir.A01G105400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G20580	none	Small nuclear ribonucleoprotein family protein	.
+Gohir.A01G105500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G20575	none	Nucleotide-diphospho-sugar transferases superfamily protein	.
+Gohir.A01G105700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G42310	none	Pentatricopeptide repeat (PPR-like) superfamily protein	.
+Gohir.A01G142400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G03530	ATRABATRAB ALPHAATRAB18BATRABC2ARABC2A	RAB GTPase homolog C2A	these genes influence the cell wall composition (both)
+Gohir.A01G143500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G73110	none	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.A01G143800	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G47990	SIS3	SUGAR-INSENSITIVE 3	.
+Gohir.A01G143900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G02080	AtIDD4IDD4	indeterminate(ID)-domain 4	.
+Gohir.A01G145800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G02170	none	Remorin family protein	.
+Gohir.A01G146200	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT3G19850	none	Phototropic-responsive NPH3 family protein	Plant growth
+Gohir.A01G146400	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G24764	ATMAP70-2MAP70-2	microtubule-associated proteins 70-2	 INVOLVED IN: cytoskeleton organization
+Gohir.A01G147400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G14860	atnudt18NUDT18	nudix hydrolase homolog 18	.
+Gohir.A05G290800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G21110	none	Disease resistance-responsive (dirigent-like protein) family protein	.
+Gohir.A05G291500	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G04410	anac078NAC2	NAC domain containing protein 2	NAC family member functions as a transcriptional activator regulates flavonoid biosynthesis under high light.
+Gohir.A05G293200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G10400	none	RNA recognition motif and CCHC-type zinc finger domains containing protein	.
+Gohir.A05G293600	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G10410	CPYSCPL49	SERINE CARBOXYPEPTIDASE-LIKE 49	.
+Gohir.A05G294600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G04260	WCRKC2	WCRKC thioredoxin 2	.
+Gohir.A05G295200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G10350	none	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.A05G296200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G296500	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G09820	ADK1ATADK1	adenosine kinase 1	.
+Gohir.A05G296600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G01720	none	Ribophorin I	.
+Gohir.A05G297100	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G48850	EMB1144	chorismate synthase putative / 5-enolpyruvylshikimate-3-phosphate phospholyase putative	INVOLVED IN: aromatic amino acid family biosynthetic process embryo development ending in seed dormancy
+Gohir.A05G297200	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT2G39180	ATCRR2CCR2	CRINKLY4 related 2	ámay be involved in lignin biosynthesis during development (Lauvergeat et al. 2001).
+Gohir.A05G298000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G54770	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A05G298100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G14470	none	NB-ARC domain-containing disease resistance protein	.
+Gohir.A05G298700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G37060	NF-YB8	nuclear factor Y subunit B8	.
+Gohir.A05G299200	FALSE	FALSE	FALSE	TRUE	FALSE	0	1	AT1G10585	none	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	.
+Gohir.A11G105800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G62060	none	Pectinacetylesterase family protein	.
+Gohir.A11G106200	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G01630	ATEXP17ATEXPA17ATHEXP ALPHA 1.13EXPA17	expansin A17	may act to mediate cell wall expansion (Y. Lee Choi and Kende 2001; Shcherban et al. 1995).
+Gohir.A11G106300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G66460	none	Glycosyl hydrolase superfamily protein	.
+Gohir.A11G106500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G15580	APG8HATG8I	Ubiquitin-like superfamily protein	.
+Gohir.A11G106900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G02460	none	Pectin lyase-like superfamily protein	.
+Gohir.A11G107100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G02450	NIMIN-1NIMIN1	NIM1-interacting 1	.
+Gohir.A11G118100	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT5G62000	ARF1-BPARF2HSSORE14	auxin response factor 2	Encodes an auxin response factor. Mutants have many defects including enlarged rosette leaves reduced fertility later senescence hypocotyl elongation defects enlarged seeds and enlarged cotyledons. May not mediate auxin effects. Increase in seed size due to increased cell proliferation.
+Gohir.A11G118700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G47980	ATSCC3SCC3	sister-chromatid cohesion protein 3	.
+Gohir.A11G119100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G03430	AHP5	histidine-containing phosphotransfer factor 5	.
+Gohir.A11G119400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G48010	RKF3	receptor-like kinase in in flowers 3	.
+Gohir.A12G029200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G18360	none	alpha/beta-Hydrolases superfamily protein	.
+Gohir.A12G030200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G15910	none	CSL zinc finger domain-containing protein	.
+Gohir.A12G030600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G50830	ATCOR413-PM2COR413-PM2	cold-regulated 413-plasma membrane 2	.
+Gohir.A12G032100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G24690	none	Protein of unknown function (DUF3411)	.
+Gohir.A12G033700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G38370	none	Phosphoglycerate mutase family protein	.
+Gohir.A12G035000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G17040	anac036NAC036	NAC domain containing protein 36	.
+Gohir.A12G036200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G16980	none	Major facilitator superfamily protein	.
+Gohir.A12G036500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G20920	none	Protein of unknown function (DUF3353)	.
+Gohir.A12G036900	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G16900	none	Arabidopsis phospholipase-like protein (PEARLI 4) family	.
+Gohir.A12G037200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G53300	UBC10	ubiquitin-conjugating enzyme 10	.
+Gohir.A12G037500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G19490	none	recA DNA recombination family protein	.
+Gohir.A12G037700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G38620	ATMYB4MYB4	myb domain protein 4	.
+Gohir.A12G038000	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT2G16700	ADF5ATADF5	actin depolymerizing factor 5	actin depolymerizing factor which affects the elongation pattern of cotton fibers Augustine et al. 2008; Q.-S. Huang et al. 2014
+Gohir.A12G038400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G21070	FIO1	methyltransferases	.
+Gohir.A12G039100	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G46290	none	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A12G040500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G34760	none	SAUR-like auxin-responsive protein family 	.
+Gohir.A12G043900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G24290	none	MAC/Perforin domain-containing protein	.
+Gohir.A12G044500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G09840	ATSK41SK41	shaggy-like protein kinase 41	.
+Gohir.A12G044700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G09660	none	RNA-binding KH domain-containing protein	.
+Gohir.A12G045000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G57720	none	Translation elongation factor EF1B gamma chain	.
+Gohir.A12G045100	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G09630	ATRAB-A2AATRAB11CATRABA2ARAB-A2ARAB11c	RAB GTPase 11C	these genes influence the cell wall composition (both)
+Gohir.A12G046000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G34660	ATMRP2EST4MRP2	multidrug resistance-associated protein 2	.
+Gohir.A12G048100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G35830	none	VQ motif-containing protein	.
+Gohir.A12G049700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	.
+Gohir.A12G051200	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT1G30825	ARPC2ADIS2	Arp2/3 complex 34 kD subunit p34-Arc	Involved in trichome maturation. mutant displays enlarged trichomes
+Gohir.A12G051900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G15030	none	Protein of unknown function (DUF789)	.
+Gohir.A12G053500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G67070	DIN9PMI2	Mannose-6-phosphate isomerase type I	.
+Gohir.D05G103200	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G37270	ATRPS5BRPS5B	ribosomal protein 5B	.
+Gohir.D05G103700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G08010	GATA11	GATA transcription factor 11	.
+Gohir.D05G104400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G27490	none	3\-5\-exoribonuclease family protein	.
+Gohir.D05G104600	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT2G28250	NCRK	Protein kinase superfamily protein	.
+Gohir.D05G105900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G28000	CH-CPN60ACPN60ASLP	chaperonin-60alpha	.
+Gohir.D05G106000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G60760	none	P-loop containing nucleoside triphosphate hydrolases superfamily protein	.
+Gohir.D05G107700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G58320	none	Kinase interacting (KIP1-like) family protein	.
+Gohir.D05G107800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G51780	ATBAG4BAG4	BCL-2-associated athanogene 4	.
+Gohir.D05G108400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G07090	LSH6	Protein of unknown function (DUF640)	.
+Gohir.D05G109300	FALSE	FALSE	FALSE	TRUE	FALSE	0	1	AT3G13040	none	myb-like HTH transcriptional regulator family protein	.
+Gohir.D07G154800	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G08370	ATDCP1DCP1	decapping 1	.
+Gohir.D07G154900	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT2G31200	ADF6ATADF6	actin depolymerizing factor 6	actin depolymerizing factor which affects the elongation pattern of cotton fibers (Augustine et al. 2008; Q.-S. Huang et al. 2014)
+Gohir.D07G155000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G52210	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.D07G155200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G31140	none	Peptidase S24/S26A/S26B/S26C family protein	.
+Gohir.D07G155400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G31160	LSH3	Protein of unknown function (DUF640)	.
+Gohir.D07G155600	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT3G54690	none	Sugar isomerase (SIS) family protein	.
+Gohir.D07G156500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G44090	none	Calcium-binding EF-hand family protein	.
+Gohir.D07G156600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G28560	RIC7	ROP-interactive CRIB motif-containing protein 7	.
+Gohir.D07G157700	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G04400	emb2171	Ribosomal protein L14p/L23e family protein	.
+Gohir.D07G158300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G04080	PRP39	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.D07G158900	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G28660	PSB28	photosystem II reaction center PSB28 protein	.
+Gohir.D07G159400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G20340	none	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	.
+Gohir.D07G160000	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G20290	ATEHD1EHD1	EPS15 homology domain 1	.
+Gohir.D07G160100	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G28720	YUC8	Flavin-binding monooxygenase family protein	plant growth; already in MS
+Gohir.D07G160200	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT2G20190	ATCLASPCLASP	CLIP-associated protein	Encodes a microtubule-associated protein that is involved in both cell division and cell expansion. It likely promotes microtubule stability.
+Gohir.D09G015400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G26880	none	Ribosomal protein L34e superfamily protein	.
+Gohir.D09G015600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT5G39830	DEG8DEGP8	Trypsin family protein with PDZ domain	.
+Gohir.D11G108100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G47070	SPL1	squamosa promoter binding protein-like 1	.
+Gohir.D11G108400	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G75250	ATRL6RL6RSM3	RAD-like 6	.
+Gohir.D11G109700	FALSE	FALSE	TRUE	FALSE	FALSE	0	1	AT5G24010	none	Protein kinase superfamily protein	.
+Gohir.D11G110100	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G62100	IAA30	indole-3-acetic acid inducible 30	.
+Gohir.D11G110500	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT4G01680	AtMYB55MYB55	myb domain protein 55	.
+Gohir.D11G111100	FALSE	FALSE	FALSE	FALSE	FALSE	1	1	AT4G01630	ATEXP17ATEXPA17ATHEXP ALPHA 1.13EXPA17	expansin A17	may act to mediate cell wall expansion (Y. Lee Choi and Kende 2001; Shcherban et al. 1995).
+Gohir.D11G111200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G02310	MAN1	Glycosyl hydrolase superfamily protein	.
+Gohir.D11G112300	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT1G10630	ARFA1FATARFA1F	ADP-ribosylation factor A1F	.
+Gohir.D11G112600	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT2G47190	ATMYB2MYB2	myb domain protein 2	.
+Gohir.D11G114200	FALSE	TRUE	FALSE	FALSE	FALSE	0	1	AT3G62420	ATBZIP53BZIP53	basic region/leucine zipper motif 53	.
+Gohir.A01G085900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55500	ATXYLTXYLT	beta-12-xylosyltransferase	.
+Gohir.A01G086400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G26670	none	Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein	.
+Gohir.A01G087000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G26640	AtWRKY20WRKY20	WRKY family transcription factor family protein	.
+Gohir.A01G087100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G50600	SCL5	scarecrow-like 5	.
+Gohir.A01G087800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G55930	none	CBS domain-containing protein / transporter associated domain-containing protein	.
+Gohir.A01G088100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G26330	CYP71B37	cytochrome P450 family 71 subfamily B polypeptide 37	.
+Gohir.A01G088700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G26300	CYP71B34	cytochrome P450 family 71 subfamily B polypeptide 34	.
+Gohir.A01G089100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG01250	none	NADH-Ubiquinone/plastoquinone (complex I) protein	.
+Gohir.A01G089200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG01250	none	NADH-Ubiquinone/plastoquinone (complex I) protein	.
+Gohir.A01G089300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG00900	none	Ribosomal protein S7p/S5e family protein	.
+Gohir.A01G089400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG01230	none	ribosomal protein S12B	.
+Gohir.A01G089800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G20235	CYP71A28	cytochrome P450 family 71 subfamily A polypeptide 28	.
+Gohir.A01G090000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G13120	none	Ribosomal protein S10p/S20e family protein	.
+Gohir.A01G090100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55590	QRT1	Pectin lyase-like superfamily protein	.
+Gohir.A01G090200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55600	none	agenet domain-containing protein / bromo-adjacent homology (BAH) domain-containing protein	.
+Gohir.A01G090600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G13170	ATSPO11-1	Spo11/DNA topoisomerase VI subunit A protein	.
+Gohir.A01G090800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55630	ATKCO1ATTPK1KCO1TPK1	Outward rectifying potassium channel protein	.
+Gohir.A01G092100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G55860	UPL1	ubiquitin-protein ligase 1	.
+Gohir.A01G092200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55840	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.A01G092300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55850	NOI	RPM1-interacting protein 4 (RIN4) family protein	.
+Gohir.A01G092400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G07680	none	emp24/gp25L/p24 family/GOLD family protein	.
+Gohir.A01G092900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G55840	none	Sec14p-like phosphatidylinositol transfer family protein	.
+Gohir.A01G093100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G60620	ATRPAC43RPAC43	RNA polymerase I subunit 43	.
+Gohir.A01G093600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G47770	FPS1	farnesyl diphosphate synthase 1	.
+Gohir.A01G093700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55980	none	serine-rich protein-related	.
+Gohir.A01G094500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G55810	UKL3	uridine kinase-like 3	.
+Gohir.A01G094900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G55730	ATCAX5CAX5	cation exchanger 5	.
+Gohir.A01G095100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G05660	AtRLP33RLP33	receptor like protein 33	.
+Gohir.A01G095200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G04030	AtHsp90.5CR88EMB1956Hsp88.1HSP90.5	Chaperone protein htpG family protein	.
+Gohir.A01G095400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G60900	RLK1	receptor-like protein kinase 1	.
+Gohir.A01G095500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G31320	LBD4	LOB domain-containing protein 4	.
+Gohir.A01G095600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12890	ASML2	activator of spomin::LUC2	.
+Gohir.A01G095900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G04240	XERICO	RING/U-box superfamily protein	.
+Gohir.A01G096000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G04240	XERICO	RING/U-box superfamily protein	.
+Gohir.A01G096100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G04240	XERICO	RING/U-box superfamily protein	.
+Gohir.A01G096800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12830	none	SAUR-like auxin-responsive protein family 	.
+Gohir.A01G097000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G79180	ATMYB63MYB63	myb domain protein 63	.
+Gohir.A01G097300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34820	none	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	.
+Gohir.A01G097500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12780	PGK1	phosphoglycerate kinase 1	.
+Gohir.A01G098400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G61170	none	Ribosomal protein S19e family protein	.
+Gohir.A01G098500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G50120	none	Plant protein of unknown function (DUF247)	.
+Gohir.A01G098700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G06150	EMB1444	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	.
+Gohir.A01G099800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G16270	none	Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain	.
+Gohir.A01G099900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G50420	SCL-3SCL3	scarecrow-like 3	.
+Gohir.A01G100100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G75950	ASK1ATSKP1SKP1SKP1AUIP1	S phase kinase-associated protein 1	.
+Gohir.A01G100400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G24290	none	MAC/Perforin domain-containing protein	.
+Gohir.A01G100600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12750	ZIP1	zinc transporter 1 precursor	.
+Gohir.A01G101800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76460	none	RNA-binding (RRM/RBD/RNP motifs) family protein	.
+Gohir.A01G102100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G20870	none	HSP20-like chaperones superfamily protein	.
+Gohir.A01G102600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76400	none	Ribophorin I	.
+Gohir.A01G102700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G20810	none	FKBP-like peptidyl-prolyl cis-trans isomerase family protein	.
+Gohir.A01G102800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G11310	ATMLO2MLO2PMR2	Seven transmembrane MLO family protein	.
+Gohir.A01G103000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G42970	GAPB	glyceraldehyde-3-phosphate dehydrogenase B subunit	.
+Gohir.A01G103200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G55180	none	O-Glycosyl hydrolases family 17 protein	.
+Gohir.A01G103600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76390	none	ARM repeat superfamily protein	.
+Gohir.A01G104300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	ATCG00720	none	photosynthetic electron transfer B	.
+Gohir.A01G104600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G37420	none	Domain of unknown function (DUF23)	.
+Gohir.A01G105000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35090	CAT2	catalase 2	.
+Gohir.A01G105200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G42340	PUB15	Plant U-Box 15	.
+Gohir.A01G105600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G42320	none	Zn-dependent exopeptidases superfamily protein	.
+Gohir.A01G106100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G26040	none	HXXXD-type acyl-transferase family protein	.
+Gohir.A01G106200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76280	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A01G106400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76270	none	O-fucosyltransferase family protein	.
+Gohir.A01G106700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G42290	none	transcription activator-related	.
+Gohir.A01G106900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76240	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A01G142100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G27150	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A01G142200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G27730	none	Protein of unknown function (DUF1624)	.
+Gohir.A01G142300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G03470	ATB_ ALPHA	Protein phosphatase 2A regulatory B subunit family protein	.
+Gohir.A01G142600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G15680	none	ARM repeat superfamily protein	.
+Gohir.A01G142700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G23540	AtPERK12IGI1	Protein kinase superfamily protein	.
+Gohir.A01G142800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G14700	ATPAP3PAP3	purple acid phosphatase 3	.
+Gohir.A01G142900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G75240	AtHB33HB33	homeobox protein 33	.
+Gohir.A01G143000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G25240	none	ENTH/VHS/GAT family protein	.
+Gohir.A01G143100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G01930	ATBPC1BBRBPC1	basic pentacysteine1	.
+Gohir.A01G143600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G14550	none	Peroxidase superfamily protein	.
+Gohir.A01G143700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G35640	none	Homeodomain-like superfamily protein	.
+Gohir.A01G144000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G75010	ARC3	GTP binding	.
+Gohir.A01G144100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G40260	none	Homeodomain-like superfamily protein	.
+Gohir.A01G144200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G02050	none	NADH-ubiquinone oxidoreductase B18 subunit putative	.
+Gohir.A01G144300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G02040	ATPTR2ATPTR2-BNTR1PTR2PTR2-B	peptide transporter 2	.
+Gohir.A01G144400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G02010	GAD4	glutamate decarboxylase 4	.
+Gohir.A01G144700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G13420	ATHAK5HAK5	high affinity K+ transporter 5	.
+Gohir.A01G144800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G01970	none	Endomembrane protein 70 protein family	.
+Gohir.A01G145000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G59960	none	NAD(P)-linked oxidoreductase superfamily protein	.
+Gohir.A01G145300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G45220	none	Plant invertase/pectin methylesterase inhibitor superfamily	.
+Gohir.A01G145600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G70740	none	Protein kinase superfamily protein	.
+Gohir.A01G145700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38360	LAZ1	Protein of unknown function (DUF300)	.
+Gohir.A01G146000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G08290	YLS8	mRNA splicing factor thioredoxin-like U5 snRNP	.
+Gohir.A01G146300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G50300	TAF15	TBP-associated factor 15	.
+Gohir.A01G146600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G01740	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A01G146700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G25054	none	UDP-3-O-acyl N-acetylglycosamine deacetylase family protein	.
+Gohir.A01G146800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G68070	none	Zinc finger C3HC4 type (RING finger) family protein	.
+Gohir.A01G147600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G23260	MMZ1UEV1A	MMS ZWEI homologue 1	.
+Gohir.A01G147700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G14700	ATPAP3PAP3	purple acid phosphatase 3	.
+Gohir.A05G289800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G25830	ATTPS-CINTPS-CIN	terpene synthase-like sequence-18-cineole	.
+Gohir.A05G289900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G16730	TPS02	terpene synthase 02	.
+Gohir.A05G290000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G51590	MANIBMNS1	alpha-mannosidase 1	.
+Gohir.A05G290100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G46330	FLS2	Leucine-rich receptor-like protein kinase family protein	.
+Gohir.A05G290200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G47570	none	Leucine-rich repeat protein kinase family protein	.
+Gohir.A05G290300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04510	ATPDK1PDK1	3\-phosphoinositide-dependent protein kinase 1	.
+Gohir.A05G290500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04490	VTE5	vitamin E pathway gene 5	.
+Gohir.A05G290600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04480	none	UDP-Glycosyltransferase superfamily protein	.
+Gohir.A05G291200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04430	BTR1BTR1LBTR1S	binding to TOMV RNA 1L (long form)	.
+Gohir.A05G291400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04420	none	Galactose oxidase/kelch repeat superfamily protein	.
+Gohir.A05G291600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G55620	emb1624	Translation initiation factor IF6	.
+Gohir.A05G291700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G42990	ATBZIP60BZIP60	basic region/leucine zipper motif 60	.
+Gohir.A05G291800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G10480	ANAC050NAC050	NAC domain containing protein 50	.
+Gohir.A05G291900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G24190	none	Protein kinase superfamily protein	.
+Gohir.A05G292000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G48450	sks3	SKU5  similar 3	.
+Gohir.A05G292200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G37620	none	Cysteine/Histidine-rich C1 domain family protein	.
+Gohir.A05G292300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G10440	none	Shugoshin C terminus	.
+Gohir.A05G292500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04310	none	Pectin lyase-like superfamily protein	.
+Gohir.A05G292600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G39210	none	Major facilitator superfamily protein	.
+Gohir.A05G292700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G26300	CYP71B34	cytochrome P450 family 71 subfamily B polypeptide 34	.
+Gohir.A05G292800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G57260	CYP71B10	cytochrome P450 family 71 subfamily B polypeptide 10	.
+Gohir.A05G293500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G65550	none	Xanthine/uracil permease family protein	.
+Gohir.A05G293700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G31305	INH3	inhibitor-3	.
+Gohir.A05G293900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G36985	DVL16ROT4	DVL family protein	.
+Gohir.A05G294100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G36985	DVL16ROT4	DVL family protein	.
+Gohir.A05G294500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G14460	none	LRR and NB-ARC domains-containing disease resistance protein	.
+Gohir.A05G294700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04250	none	Cysteine proteinases superfamily protein	.
+Gohir.A05G295000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G57120	none	Protein kinase superfamily protein	.
+Gohir.A05G295300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43570	none	Serine protease inhibitor potato inhibitor I-type family protein	.
+Gohir.A05G297300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G20060	UBC19	ubiquitin-conjugating enzyme19	.
+Gohir.A05G297900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G02960	none	Ribosomal protein S12/S23 family protein	.
+Gohir.A05G298800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G45740	none	hydrolase family protein / HAD-superfamily protein	.
+Gohir.A05G298900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G13510	none	Ribosomal protein L10 family protein	.
+Gohir.A05G299600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G02610	none	Ribosomal L29 family protein 	.
+Gohir.A11G106400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01850	AtSAM2MAT2SAM-2SAM2	S-adenosylmethionine synthetase 2	.
+Gohir.A11G106600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47110	UBQ6	ubiquitin 6	.
+Gohir.A11G106800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02475	none	Polyketide cyclase/dehydrase and lipid transport superfamily protein	.
+Gohir.A11G118200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G06350	EMB3004MEE32	dehydroquinate dehydratase putative / shikimate dehydrogenase putative	.
+Gohir.A11G118300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G03140	none	NAD(P)-binding Rossmann-fold superfamily protein	.
+Gohir.A11G118400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G03120	none	C2H2 and C2HC zinc fingers superfamily protein	.
+Gohir.A11G118500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G03110	AtRBP-DR1RBP-DR1	RNA-binding protein-defense related 1	.
+Gohir.A11G118600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G03100	none	Rho GTPase activating protein with PAK-box/P21-Rho-binding domain	.
+Gohir.A11G118800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G04420	none	NAD(P)-linked oxidoreductase superfamily protein	.
+Gohir.A11G118900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G03080	BSL1	BRI1 suppressor 1 (BSU1)-like 1	.
+Gohir.A11G119300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G35960	none	Protein kinase family protein	.
+Gohir.A12G029400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34530	CIB1	cryptochrome-interacting basic-helix-loop-helix 1	.
+Gohir.A12G029500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21620	RD2	Adenine nucleotide alpha hydrolases-like superfamily protein	.
+Gohir.A12G029700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21600	ATRER1BRER1B	endoplasmatic reticulum retrieval protein 1B	.
+Gohir.A12G029800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16365	none	F-box family protein	.
+Gohir.A12G029900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21580	none	Ribosomal protein S25 family protein	.
+Gohir.A12G030000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G31940	CYP82C4	cytochrome P450 family 82 subfamily C polypeptide 4	.
+Gohir.A12G031200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G33670	none	NAD(P)-linked oxidoreductase superfamily protein	.
+Gohir.A12G031300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G09650	AtPPa6PPa6	pyrophosphorylase 6	.
+Gohir.A12G031400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G21860	MSRB2	methionine sulfoxide reductase B 2	.
+Gohir.A12G031500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G37880	none	LisH/CRA/RING-U-box domains-containing protein	.
+Gohir.A12G031800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G09580	none	emp24/gp25L/p24 family/GOLD family protein	.
+Gohir.A12G031900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G10780	none	F-box/RNI-like superfamily protein	.
+Gohir.A12G032400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G06470	none	GNS1/SUR4 membrane protein family	.
+Gohir.A12G032500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G53070	none	Ribosomal protein L9/RNase H1	.
+Gohir.A12G032600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G77700	none	Pathogenesis-related thaumatin superfamily protein	.
+Gohir.A12G032700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G24750	none	UDP-Glycosyltransferase superfamily protein	.
+Gohir.A12G032800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G05600	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A12G032900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G05600	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A12G033100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G68150	ATWRKY9WRKY9	WRKY DNA-binding protein 9	.
+Gohir.A12G033200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G68170	none	nodulin MtN21 /EamA-like transporter family protein	.
+Gohir.A12G033300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G15120	none	Ubiquinol-cytochrome C reductase hinge protein	.
+Gohir.A12G033400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35270	none	Plant regulator RWP-RK family protein	.
+Gohir.A12G033500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17200	DSK2	ubiquitin family protein	.
+Gohir.A12G033600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17980	ATSLY1	Sec1/munc18-like (SM) proteins superfamily	.
+Gohir.A12G033800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38360	LAZ1	Protein of unknown function (DUF300)	.
+Gohir.A12G033900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17120	LYM2	lysm domain GPI-anchored protein 2 precursor	.
+Gohir.A12G034000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35240	none	Protein of unknown function (DUF630 and DUF632)	.
+Gohir.A12G034100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35230	BSK1	BR-signaling kinase 1	.
+Gohir.A12G034200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35200	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35200	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G034900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17080	none	Arabidopsis protein of unknown function (DUF241)	.
+Gohir.A12G035100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G20440	AtCOR47COR47RD17	cold-regulated 47	.
+Gohir.A12G035200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G76160	sks5	SKU5 similar 5	.
+Gohir.A12G035300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G33370	none	GDSL-like Lipase/Acylhydrolase superfamily protein	.
+Gohir.A12G035400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G63940	none	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	.
+Gohir.A12G035600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35160	none	O-methyltransferase family protein	.
+Gohir.A12G035700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35160	none	O-methyltransferase family protein	.
+Gohir.A12G035800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17020	none	F-box/RNI-like superfamily protein	.
+Gohir.A12G035900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G40820	ATATRATRATRAD3	Ataxia telangiectasia-mutated and RAD3-related	.
+Gohir.A12G036000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G62260	MEF9	mitochondrial editing factor 9	.
+Gohir.A12G036100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G35140	none	Transducin/WD40 repeat-like superfamily protein	.
+Gohir.A12G036800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16910	AMS	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	.
+Gohir.A12G037800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G17840	ERD7	Senescencedehydration-associated protein-related	.
+Gohir.A12G037900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G06985	LCR44	low-molecular-weight cysteine-rich 44	.
+Gohir.A12G038200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34940	ARO1	armadillo repeat only 1	.
+Gohir.A12G038500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38690	none	PLC-like phosphodiesterases superfamily protein	.
+Gohir.A12G039000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G35180	none	Protein of unknown function (DUF1336)	.
+Gohir.A12G039200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38760	none	Protein of unknown function (DUF3414)	.
+Gohir.A12G039700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38790	none	ER lumen protein retaining receptor family protein	.
+Gohir.A12G039800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34850	LAP5	Chalcone and stilbene synthase family protein	.
+Gohir.A12G039900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16850	PIP2;8PIP3B	plasma membrane intrinsic protein 2;8	.
+Gohir.A12G040000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G53420	PIP2PIP2;1PIP2A	plasma membrane intrinsic protein 2A	.
+Gohir.A12G040100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38810	none	Calcium-binding EF-hand family protein	.
+Gohir.A12G040300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G45600	GAS41TAF14B	YEATS family protein	.
+Gohir.A12G040400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G74960	ATKAS2FAB1KAS2	fatty acid biosynthesis 1	.
+Gohir.A12G040600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34750	none	SAUR-like auxin-responsive protein family 	.
+Gohir.A12G040800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16570	ASE1ATASEATASE1	GLN phosphoribosyl pyrophosphate amidotransferase 1	.
+Gohir.A12G040900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21270	UFD1	ubiquitin fusion degradation 1	.
+Gohir.A12G041100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34700	none	LYR family of Fe/S cluster biogenesis protein	.
+Gohir.A12G041300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G39010	AtGH9B18GH9B18	glycosyl hydrolase 9B18	.
+Gohir.A12G041400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21350	none	RNA-binding CRS1 / YhbY (CRM) domain protein	.
+Gohir.A12G042100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G34610	BLH6	BEL1-like homeodomain 6	.
+Gohir.A12G042400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G14840	none	Leucine-rich repeat transmembrane protein kinase	.
+Gohir.A12G042500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G39140	none	RING/U-box superfamily protein	.
+Gohir.A12G042600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G39150	none	DNAJ heat shock N-terminal domain-containing protein	.
+Gohir.A12G042700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G39170	none	Sec14p-like phosphatidylinositol transfer family protein	.
+Gohir.A12G042800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21520	none	Sec14p-like phosphatidylinositol transfer family protein	.
+Gohir.A12G042900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G21540	ATSFH3SFH3	SEC14-like 3	.
+Gohir.A12G043100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G50930	BCS1	cytochrome BC1 synthesis	.
+Gohir.A12G043200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G13260	EDF4RAV1	related to ABI3/VP1 1	.
+Gohir.A12G043300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G18350	AtHB24HB24	homeobox protein 24	.
+Gohir.A12G043400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G09795	ATATP-PRT2ATP-PRT2HISN1B	ATP phosphoribosyl transferase 2	.
+Gohir.A12G044100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G58025	none	DNA-binding bromodomain-containing protein	.
+Gohir.A12G044200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G13560	AAPT1ATAAPT1	aminoalcoholphosphotransferase 1	.
+Gohir.A12G045200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G11730	ATFP8ATRABD1RABD1	Ras-related small GTP-binding family protein	.
+Gohir.A12G045300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G09600	none	Protein kinase superfamily protein	.
+Gohir.A12G045500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G30460	ATCPSF30CPSF30	cleavage and polyadenylation specificity factor 30	.
+Gohir.A12G045700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G30410	ATMRP13MRP13	multidrug resistance-associated protein 13	.
+Gohir.A12G045900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G30420	ATMRP12MRP12	multidrug resistance-associated protein 12	.
+Gohir.A12G046100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G27640	ATEIF3B-1ATTIF3B1EIF3BEIF3B-1TIF3B1	translation initiation factor 3B1	.
+Gohir.A12G046200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34650	ABRPID	Protein kinase superfamily protein	.
+Gohir.A12G046300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G05430	none	Carbohydrate-binding X8 domain superfamily protein	.
+Gohir.A12G046400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G21065	none	Tetratricopeptide repeat (TPR)-like superfamily protein	.
+Gohir.A12G046500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G35120	none	Single hybrid motif superfamily protein	.
+Gohir.A12G046600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G18820	EMB3007	TCP-1/cpn60 chaperonin family protein	.
+Gohir.A12G046700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G31170	ATSRXSRX	sulfiredoxin	.
+Gohir.A12G046800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G31160	HINT 2	HISTIDINE TRIAD NUCLEOTIDE-BINDING 2	.
+Gohir.A12G046900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G20180	none	Copper transport protein family	.
+Gohir.A12G047200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G05010	none	clathrin adaptor complexes medium subunit family protein	.
+Gohir.A12G047600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12800	DECRSDRB	short-chain dehydrogenase-reductase B	.
+Gohir.A12G047800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G35060	KUP11	K+ uptake permease 11	.
+Gohir.A12G048000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G44800	CHR4PKR1	chromatin remodeling 4	.
+Gohir.A12G048400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G35020	GlcNAc1pUT2	N-acetylglucosamine-1-phosphate uridylyltransferase 2	.
+Gohir.A12G048600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G35040	none	AICARFT/IMPCHase bienzyme family protein	.
+Gohir.A12G049000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G20060	EMB1895	ARM repeat superfamily protein	.
+Gohir.A12G049200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G32450	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.A12G049300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G05280	none	RING/U-box superfamily protein	.
+Gohir.A12G049400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G20070	AAHATAAH	allantoate amidohydrolase	.
+Gohir.A12G049500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G30970	SUF4	zinc finger (C2H2 type) family protein	.
+Gohir.A12G049600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G21780	UGT71B6	UDP-glucosyl transferase 71B6	.
+Gohir.A12G050200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G30900	BP80-3;3VSR3;3VSR6	VACUOLAR SORTING RECEPTOR 6	.
+Gohir.A12G050300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34930	none	disease resistance family protein / LRR family protein	.
+Gohir.A12G050400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G20140	GSO1	Leucine-rich repeat transmembrane protein kinase	.
+Gohir.A12G050900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G21000	none	Gag-Pol-related retrotransposon family protein	.
+Gohir.A12G051000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G20170	none	Domain of unknown function (DUF23)	.
+Gohir.A12G051100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34900	GTE01GTE1IMB1	Transcription factor GTE6	.
+Gohir.A12G051800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G13050	5-FCL	5-formyltetrahydrofolate cycloligase	.
+Gohir.A12G052000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G25380	ATNDT2NDT2	NAD+ transporter 2	.
+Gohir.A12G052200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G16080	AtCXE17CXE17	carboxyesterase 17	.
+Gohir.A12G052500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G54230	SUA	suppressor of abi3-5	.
+Gohir.A12G052700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G02710	none	ARM repeat superfamily protein	.
+Gohir.A12G053300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G12770	MEF22	mitochondrial editing factor  22	.
+Gohir.A12G053600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G73830	BEE3	BR enhanced expression 3	.
+Gohir.D05G102900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G60660	PIP2;4PIP2F	plasma membrane intrinsic protein 2;4	.
+Gohir.D05G103000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G60670	none	Ribosomal protein L11 family protein	.
+Gohir.D05G103100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G28390	none	SAND family protein	.
+Gohir.D05G103500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G07990	none	SIT4 phosphatase-associated family protein	.
+Gohir.D05G103600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G28350	ARF10	auxin response factor 10	.
+Gohir.D05G104000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G28310	none	Protein of unknown function (DUF707)	.
+Gohir.D05G105000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G08080	ACA7ATACA7	alpha carbonic anhydrase 7	.
+Gohir.D05G105100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G45160	none	Putative membrane lipoprotein	.
+Gohir.D05G105300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G07980	none	dentin sialophosphoprotein-related	.
+Gohir.D05G106600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G60800	none	Heavy metal transport/detoxification superfamily protein 	.
+Gohir.D05G106800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G57620	AtMYB36MYB36	myb domain protein 36	.
+Gohir.D05G106900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G36870	XTH32	xyloglucan endotransglucosylase/hydrolase 32	.
+Gohir.D05G107100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G28120	none	Major facilitator superfamily protein	.
+Gohir.D05G107200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G04320	none	Shugoshin C terminus	.
+Gohir.D05G107300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G22930	none	Protein of unknown function (DUF1635)	.
+Gohir.D05G108500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G58470	TAF15b	TBP-associated factor 15B	.
+Gohir.D05G108700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G07050	none	CCT motif family protein	.
+Gohir.D05G108800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G30140	none	UDP-Glycosyltransferase superfamily protein	.
+Gohir.D05G108900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G30160	none	Mitochondrial substrate carrier family protein	.
+Gohir.D05G109000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G30170	none	Protein phosphatase 2C family protein	.
+Gohir.D05G109100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G58460	ATCHX25CHX25	cation/H+ exchanger 25	.
+Gohir.D05G109400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G13050	none	Major facilitator superfamily protein	.
+Gohir.D05G109500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G13060	ECT5	evolutionarily conserved C-terminal region 5	.
+Gohir.D05G109600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G13062	none	Polyketide cyclase/dehydrase and lipid transport superfamily protein	.
+Gohir.D05G109700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G78980	SRF5	STRUBBELIG-receptor family 5	.
+Gohir.D07G154600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G29540	ATRPAC14ATRPC14RPC14	RNApolymerase 14 kDa subunit	.
+Gohir.D07G155500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G06680	none	Ribosomal L29e protein family	.
+Gohir.D07G156000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G04430	none	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	.
+Gohir.D07G156200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G03900	ATNAP4NAP4	non-intrinsic ABC protein 4	.
+Gohir.D07G156400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G03950	VPS2.3	vacuolar protein sorting-associated protein 2.3	.
+Gohir.D07G156700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G51130	none	Nse4 component of Smc5/6 DNA repair complex	.
+Gohir.D07G156800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G28570	none	Long-chain fatty alcohol dehydrogenase family protein	.
+Gohir.D07G157100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G19660	ATS1PATSBT6.1S1P	SITE-1 protease	.
+Gohir.D07G157200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G46050	ATPTR3PTR3	peptide transporter 3	.
+Gohir.D07G157400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G04040	none	HAD superfamily subfamily IIIB acid phosphatase 	.
+Gohir.D07G157800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G44000	none	Glutathione S-transferase family protein	.
+Gohir.D07G158000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43980	PDLP1PDLP1A	plasmodesmata-located protein 1	.
+Gohir.D07G158100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43970	ATTOM22-VTOM22-VTOM9-2	translocase of outer membrane 22-V	.
+Gohir.D07G158800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G32470	none	Haem oxygenase-like multi-helical	.
+Gohir.D07G159000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G04110	SDD1	Subtilase family protein	.
+Gohir.D07G159500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT5G43940	ADH2ATGSNOR1GSNORHOT5PAR2	GroES-like zinc-binding dehydrogenase family protein	.
+Gohir.D07G159800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G20300	ALE2	Protein kinase superfamily protein	.
+Gohir.D07G160400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G18100	none	Ribosomal protein L32e	.
+Gohir.D07G160700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G29020	none	glycine-rich protein	.
+Gohir.D07G160900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G38470	none	ACT-like protein tyrosine kinase family protein	.
+Gohir.D07G161000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G56233	none	Protein of unknown function (PD694200)	.
+Gohir.D11G108300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47020	none	Peptide chain release factor 1	.
+Gohir.D11G108600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01840	ATKCO5ATTPK5KCO5TPK5	Ca2+ activated outward rectifying K+ channel 5	.
+Gohir.D11G108700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47020	none	Peptide chain release factor 1	.
+Gohir.D11G108800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G75250	ATRL6RL6RSM3	RAD-like 6	.
+Gohir.D11G108900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01840	ATKCO5ATTPK5KCO5TPK5	Ca2+ activated outward rectifying K+ channel 5	.
+Gohir.D11G109000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G62160	none	HXXXD-type acyl-transferase family protein	.
+Gohir.D11G109300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G62130	none	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	.
+Gohir.D11G109500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01790	none	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	.
+Gohir.D11G109600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G04450	AtWRKY42WRKY42	WRKY family transcription factor	.
+Gohir.D11G110000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02360	none	Chitinase family protein	.
+Gohir.D11G110200	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01690	HEMG1PPO1PPOX	Flavin containing amine oxidoreductase family	.
+Gohir.D11G110400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G46970	PIL1	phytochrome interacting factor 3-like 1	.
+Gohir.D11G110800	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01660	ABC1ATABC1ATATH10	ABC transporter 1	.
+Gohir.D11G110900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G46920	POL	Protein phosphatase 2C family protein	.
+Gohir.D11G111300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT4G01850	AtSAM2MAT2SAM-2SAM2	S-adenosylmethionine synthetase 2	.
+Gohir.D11G111400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G15580	APG8HATG8I	Ubiquitin-like superfamily protein	.
+Gohir.D11G111500	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G62240	none	RING/U-box superfamily protein	.
+Gohir.D11G111600	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47110	UBQ6	ubiquitin 6	.
+Gohir.D11G111700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47140	none	NAD(P)-binding Rossmann-fold superfamily protein	.
+Gohir.D11G111900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02460	none	Pectin lyase-like superfamily protein	.
+Gohir.D11G112100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G09390	none	GDSL-like Lipase/Acylhydrolase superfamily protein	.
+Gohir.D11G112400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02420	none	Pentatricopeptide repeat (PPR) superfamily protein	.
+Gohir.D11G112900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G47300	none	ribonuclease Ps	.
+Gohir.D11G113000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G66654	none	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	.
+Gohir.D11G113300	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02550	none	Plant invertase/pectin methylesterase inhibitor superfamily protein	.
+Gohir.D11G113400	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT1G02550	none	Plant invertase/pectin methylesterase inhibitor superfamily protein	.
+Gohir.D11G113700	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G34830	AtWRKY35MEE24WRKY35	WRKY DNA-binding protein 35	.
+Gohir.D11G113900	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16760	none	Calcium-dependent phosphotriesterase superfamily protein	.
+Gohir.D11G114000	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT2G16760	none	Calcium-dependent phosphotriesterase superfamily protein	.
+Gohir.D11G114100	FALSE	FALSE	FALSE	FALSE	FALSE	0	0	AT3G62410	CP12CP12-2	CP12 domain-containing protein 2	.
+Gohir.A01G086100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G087300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G087700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G088000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G089500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G089600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G089700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G090300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G091000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G091100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G091300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G091700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G093400	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G095700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G096300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G096900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G097200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G097700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G097800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G097900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G098000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G098200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G099000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G099400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G099500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G099600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G100500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G100900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G101200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G101400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G102300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G102900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G103400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G103700	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G103900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G104200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G105800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G105900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G106300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G106500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G106600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G106800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G143200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G143300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G144600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G145900	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G146500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G146900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G147300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A01G147500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G290700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G290900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G291000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G291100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G291300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G292400	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G293000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G293300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G293400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G294200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G294400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G294800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G295600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G296100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G297500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G297600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G297700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G298600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G299300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G299400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A05G300100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A11G106100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A11G107000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A11G119200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G029300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G029600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G030300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G031100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G031600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G031700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G032000	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G032200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G032300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G033000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G035500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G038800	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G039400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G039500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G039600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G040700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G041000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G041200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G041600	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G041900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G042000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G043500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G043600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G043700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G044300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G044400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G047700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G048800	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G049100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G050000	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G050100	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G050600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G050700	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G051500	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G052300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G053100	FALSE	TRUE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.A12G053400	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G104500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G105400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G105500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G106300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G106400	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G106700	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G107900	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G108000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D05G108600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G155100	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G155800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G157500	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G157600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G157900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G158200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G158500	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G159200	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G160300	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G160600	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D07G160800	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D09G015800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G108500	FALSE	FALSE	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G109200	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G109900	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G110300	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G110600	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G111000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G112000	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G112200	FALSE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G113100	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G113800	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
+Gohir.D11G114300	FALSE	FALSE	FALSE	FALSE	FALSE	NA	NA	NA	NA	NA	NA
